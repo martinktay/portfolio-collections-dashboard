@@ -10,13 +10,18 @@
 - `data/water_collections_demo.sqlite`
 
 ## What's Inside
-- Notebook: [`notebooks/Portfolio_Collections_Dashboard.ipynb`](notebooks/Portfolio_Collections_Dashboard.ipynb)
-- Figures saved to `outputs/figures/` for this README
+- **Interactive Notebook**: [`notebooks/Portfolio_Collections_Dashboard.ipynb`](notebooks/Portfolio_Collections_Dashboard.ipynb)
+  - 🎛️ **Interactive Dashboard** with widgets and plotly charts
+  - 📊 Dynamic filtering by date range, metrics, and segments
+  - 📈 Real-time chart updates and KPI gauges
+- Static figures saved to `outputs/figures/` for this README
 
-## Key Views & KPIs
-- **Monthly default rate** (D-3 to D+60 window)
-- **Default by income band / region**
-- **Collections actions distribution**
+## Key Features
+- **Interactive Dashboard**: Dynamic charts with date range sliders and metric selectors
+- **Monthly default rate** trends (D-3 to D+60 window)
+- **Segmentation analysis** by income band and region
+- **Collections actions** distribution and volume tracking
+- **KPI gauges** with performance thresholds
 
 ## Screenshots
 ### Monthly Default Rate
@@ -35,8 +40,20 @@
 ```bash
 pip install -r requirements.txt
 python -c "import sqlite3, pandas as pd; print('DB OK')"
-# or open the notebook in Jupyter/VS Code and run all cells
+
+# Launch Jupyter notebook for interactive dashboard
+jupyter notebook notebooks/Portfolio_Collections_Dashboard.ipynb
+
+# Or open in VS Code and run all cells
+# Interactive widgets require Jupyter environment
 ```
+
+## Interactive Dashboard Features
+- 📅 **Date Range Slider**: Filter analysis to specific time periods
+- 📊 **Metric Selector**: Switch between default rate, billed amounts, and paid amounts  
+- 🎯 **Segmentation Toggle**: View analysis by income band or region
+- ⚡ **Real-time Updates**: All charts update dynamically based on selections
+- 🎛️ **KPI Gauges**: Performance indicators with thresholds
 
 ## Notes
 - Uses the same dataset as Project 1 (risk model).

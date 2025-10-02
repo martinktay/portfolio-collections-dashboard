@@ -127,6 +127,7 @@
 
 
 
+
   - Verify image quality and readability
   - Check that charts load properly in GitHub preview
   - _Requirements: 5.1_
