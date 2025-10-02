@@ -25,38 +25,45 @@
   - Add index on payments(customer_id, payment_date) for payment window queries
   - _Requirements: 4.4_
 
+
 - [ ] 4. Create KPI calculation SQL view
   - Implement bill_targets view with default rate logic (D-3 to D+60 payment window)
   - Handle payment matching with £1 tolerance for bill settlement
   - Include paid_in_window and default_60d calculated fields
+
   - _Requirements: 1.2, 1.3_
 
 - [ ] 5. Build monthly trend analysis
   - Query bill_targets view to calculate monthly default rates
   - Aggregate billed and paid amounts by month
+
   - Create pandas DataFrame with month, default_rate, billed, paid columns
   - _Requirements: 1.3_
 
 - [ ] 6. Implement customer segmentation analysis
   - Create income band segmentation query joining customers and bill_targets
+
   - Create region segmentation query with default rates by geographic area
   - Calculate average bill amounts and sample sizes for each segment
   - _Requirements: 2.1, 2.2_
 
 - [ ] 7. Analyze collections actions distribution
   - Query collections_actions table to count action types
+
   - Create summary of Reminder Sent, Second Reminder, Arrangement Agreed, Arrangement Broken volumes
   - Prepare data for visualization
   - _Requirements: 3.1, 3.3_
 
 - [ ] 8. Create monthly default rate visualization
   - Generate line plot with markers showing default rate trends over time
+
   - Apply seaborn styling for professional appearance
   - Add proper title, axis labels, and rotated x-axis dates
   - Save as PNG with DPI=200 to outputs/figures/monthly_default_rate.png
   - _Requirements: 1.4_
 
-- [ ] 9. Create income band segmentation chart
+- [x] 9. Create income band segmentation chart
+
   - Generate horizontal bar chart showing default rates by income band
   - Sort by default rate descending for easy interpretation
   - Apply consistent styling and clear labels
@@ -72,15 +79,18 @@
 
 
 
+
 - [ ] 11. Create collections actions distribution chart
   - Generate bar chart showing volume of each action type
   - Include all action types with appropriate formatting
   - Add clear title and axis labels
+
   - Save as PNG to outputs/figures/actions_distribution.png
   - _Requirements: 3.2, 3.4_
 
 - [ ] 12. Build comprehensive Jupyter notebook
   - Create notebook with structured markdown sections as specified
+
   - Implement all code blocks: imports, sanity checks, indexes, KPI views, tables, plots
   - Add markdown explanations between code sections
   - Display summary tables for key insights
@@ -88,6 +98,7 @@
 
 - [ ] 13. Implement data validation and error handling
   - Add sanity checks for table row counts
+
   - Validate date formats and logical sequences
   - Handle missing data in payment matching logic
   - Add error handling for file operations and database connections
@@ -106,11 +117,16 @@
   - Add inline images for all four generated charts
   - Include setup and execution instructions
 
+
   - _Requirements: 5.1, 5.2, 5.3_
+
 
 - [ ] 16. Verify all chart images display in README
   - Test that all PNG files are generated correctly
   - Confirm relative paths work for GitHub display
+
+
+
   - Verify image quality and readability
   - Check that charts load properly in GitHub preview
   - _Requirements: 5.1_
