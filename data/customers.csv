@@ -1,0 +1,1501 @@
+customer_id,region,income_band,tariff,has_meter,is_vulnerable,prefers_direct_debit,tenure_band
+C100000,Slough,£30k-£50k,Low Income Social Tariff,1,0,0,1-3y
+C100001,London - South,£50k+,Metered,1,0,1,<1y
+C100002,Swindon,£15k-£30k,Standard,0,0,1,<1y
+C100003,Reading,£15k-£30k,Metered,1,0,1,3-5y
+C100004,London - North,£30k-£50k,Standard,1,0,1,3-5y
+C100005,Guildford,£15k-£30k,Metered,1,0,0,3-5y
+C100006,Slough,£30k-£50k,Metered,1,0,1,3-5y
+C100007,Swindon,£15k-£30k,Standard,1,0,1,<1y
+C100008,London - North,<£15k,Standard,0,0,0,<1y
+C100009,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100010,London - South,<£15k,Standard,0,0,1,1-3y
+C100011,Oxford,<£15k,Low Income Social Tariff,1,0,0,3-5y
+C100012,Reading,£30k-£50k,Metered,1,0,0,<1y
+C100013,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C100014,Thames Valley,£50k+,Standard,1,0,0,5+y
+C100015,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100016,Thames Valley,<£15k,Unmetered,1,1,0,<1y
+C100017,London - North,£50k+,Standard,1,0,1,3-5y
+C100018,Swindon,<£15k,Standard,0,0,0,3-5y
+C100019,Reading,<£15k,Standard,1,1,0,5+y
+C100020,Slough,£15k-£30k,Standard,1,0,1,5+y
+C100021,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100022,Guildford,£50k+,Metered,1,0,0,<1y
+C100023,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C100024,Slough,£30k-£50k,Standard,0,0,1,5+y
+C100025,London - North,<£15k,Standard,0,0,1,1-3y
+C100026,Thames Valley,£15k-£30k,Standard,0,0,0,5+y
+C100027,London - North,£15k-£30k,Low Income Social Tariff,0,0,0,3-5y
+C100028,London - North,<£15k,Metered,1,0,1,<1y
+C100029,Reading,£15k-£30k,Standard,0,0,1,1-3y
+C100030,Slough,£15k-£30k,Metered,1,0,1,3-5y
+C100031,Guildford,<£15k,Standard,1,0,0,<1y
+C100032,London - South,£15k-£30k,Standard,0,0,1,1-3y
+C100033,London - South,£30k-£50k,Standard,1,1,0,3-5y
+C100034,Thames Valley,<£15k,Unmetered,1,0,1,<1y
+C100035,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100036,London - North,£30k-£50k,Metered,1,0,0,3-5y
+C100037,Thames Valley,£30k-£50k,Standard,0,0,1,3-5y
+C100038,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C100039,Reading,£15k-£30k,Metered,1,0,1,5+y
+C100040,London - South,£30k-£50k,Standard,1,0,1,5+y
+C100041,Swindon,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100042,Slough,£15k-£30k,Metered,1,0,1,<1y
+C100043,London - South,<£15k,Metered,1,0,0,3-5y
+C100044,Swindon,£15k-£30k,Metered,1,0,1,1-3y
+C100045,Swindon,£15k-£30k,Unmetered,1,0,1,5+y
+C100046,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100047,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100048,Reading,£15k-£30k,Low Income Social Tariff,0,0,0,1-3y
+C100049,London - North,£15k-£30k,Standard,1,1,1,1-3y
+C100050,London - North,<£15k,Low Income Social Tariff,1,0,1,5+y
+C100051,London - North,£15k-£30k,Standard,0,0,0,<1y
+C100052,Swindon,£15k-£30k,Metered,1,0,0,5+y
+C100053,Reading,£15k-£30k,Metered,1,0,0,<1y
+C100054,Slough,£15k-£30k,Metered,1,0,0,3-5y
+C100055,Swindon,£30k-£50k,Metered,1,0,0,5+y
+C100056,Thames Valley,£50k+,Metered,1,0,1,1-3y
+C100057,Thames Valley,£15k-£30k,Standard,0,0,0,<1y
+C100058,London - North,£30k-£50k,Standard,1,0,1,3-5y
+C100059,London - North,£30k-£50k,Standard,0,0,0,5+y
+C100060,Reading,£50k+,Metered,1,0,0,1-3y
+C100061,Thames Valley,£30k-£50k,Metered,1,0,0,1-3y
+C100062,Thames Valley,£50k+,Standard,1,0,1,3-5y
+C100063,Slough,£50k+,Low Income Social Tariff,0,0,0,<1y
+C100064,Reading,£30k-£50k,Standard,1,0,1,3-5y
+C100065,Thames Valley,£15k-£30k,Metered,1,0,0,1-3y
+C100066,Thames Valley,<£15k,Metered,1,1,1,<1y
+C100067,London - South,<£15k,Standard,1,0,0,5+y
+C100068,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C100069,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100070,London - North,£15k-£30k,Standard,1,0,1,1-3y
+C100071,London - South,£15k-£30k,Unmetered,0,0,1,1-3y
+C100072,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C100073,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100074,London - North,<£15k,Low Income Social Tariff,0,1,0,3-5y
+C100075,London - South,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C100076,London - South,£30k-£50k,Standard,0,0,0,3-5y
+C100077,Reading,£30k-£50k,Metered,1,1,1,1-3y
+C100078,Thames Valley,£50k+,Metered,1,1,1,1-3y
+C100079,Swindon,£30k-£50k,Standard,1,0,1,<1y
+C100080,Reading,£50k+,Standard,0,0,1,3-5y
+C100081,London - South,£15k-£30k,Standard,0,0,1,1-3y
+C100082,Swindon,£15k-£30k,Metered,1,0,1,1-3y
+C100083,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100084,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100085,London - North,£50k+,Standard,0,0,1,3-5y
+C100086,Slough,£15k-£30k,Standard,1,0,1,3-5y
+C100087,Thames Valley,£15k-£30k,Metered,1,0,0,5+y
+C100088,London - North,£15k-£30k,Metered,1,0,1,<1y
+C100089,Thames Valley,<£15k,Low Income Social Tariff,0,0,1,1-3y
+C100090,London - North,<£15k,Low Income Social Tariff,1,1,0,<1y
+C100091,Reading,<£15k,Low Income Social Tariff,1,1,1,3-5y
+C100092,Thames Valley,£50k+,Low Income Social Tariff,0,0,1,3-5y
+C100093,London - South,£15k-£30k,Unmetered,1,0,1,1-3y
+C100094,London - South,£30k-£50k,Metered,1,0,1,3-5y
+C100095,Reading,£30k-£50k,Standard,0,0,1,1-3y
+C100096,London - South,<£15k,Standard,1,1,1,1-3y
+C100097,London - North,<£15k,Standard,1,0,1,1-3y
+C100098,London - North,£30k-£50k,Standard,1,0,1,<1y
+C100099,Guildford,£15k-£30k,Standard,1,0,0,5+y
+C100100,Oxford,£50k+,Unmetered,0,0,1,3-5y
+C100101,Reading,<£15k,Standard,0,1,1,3-5y
+C100102,London - South,£30k-£50k,Unmetered,0,0,1,5+y
+C100103,Guildford,£30k-£50k,Metered,1,0,1,3-5y
+C100104,Slough,£15k-£30k,Metered,1,0,0,1-3y
+C100105,Slough,£15k-£30k,Metered,1,0,0,<1y
+C100106,Thames Valley,£50k+,Standard,0,0,1,1-3y
+C100107,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100108,London - North,£15k-£30k,Standard,1,0,0,5+y
+C100109,Oxford,£15k-£30k,Low Income Social Tariff,0,0,1,3-5y
+C100110,Thames Valley,£15k-£30k,Standard,0,0,0,<1y
+C100111,London - North,£30k-£50k,Standard,1,0,1,<1y
+C100112,London - South,£30k-£50k,Metered,1,0,1,5+y
+C100113,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C100114,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100115,Swindon,<£15k,Metered,1,0,0,1-3y
+C100116,Slough,<£15k,Standard,1,0,1,1-3y
+C100117,Slough,£15k-£30k,Metered,1,0,0,3-5y
+C100118,London - South,£50k+,Standard,1,0,1,5+y
+C100119,Reading,<£15k,Standard,1,1,0,3-5y
+C100120,Thames Valley,<£15k,Standard,1,1,0,1-3y
+C100121,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C100122,London - North,£30k-£50k,Standard,0,0,0,5+y
+C100123,London - South,<£15k,Metered,1,0,1,1-3y
+C100124,London - North,£15k-£30k,Standard,1,0,0,1-3y
+C100125,Thames Valley,£30k-£50k,Standard,0,0,0,3-5y
+C100126,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100127,London - North,<£15k,Standard,1,1,0,<1y
+C100128,London - North,<£15k,Metered,1,1,1,5+y
+C100129,Thames Valley,£15k-£30k,Unmetered,1,0,0,3-5y
+C100130,London - North,£15k-£30k,Metered,1,0,1,<1y
+C100131,Oxford,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C100132,Thames Valley,£30k-£50k,Standard,1,0,1,5+y
+C100133,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C100134,Thames Valley,£50k+,Metered,1,0,1,3-5y
+C100135,London - North,£15k-£30k,Metered,1,1,0,<1y
+C100136,Guildford,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C100137,Thames Valley,£50k+,Standard,0,0,1,5+y
+C100138,Swindon,£15k-£30k,Metered,1,0,1,1-3y
+C100139,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C100140,Thames Valley,£30k-£50k,Standard,1,1,1,3-5y
+C100141,Thames Valley,<£15k,Standard,1,1,0,5+y
+C100142,Guildford,£15k-£30k,Unmetered,1,0,1,3-5y
+C100143,Thames Valley,<£15k,Standard,1,0,0,5+y
+C100144,Thames Valley,<£15k,Low Income Social Tariff,1,0,1,3-5y
+C100145,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C100146,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100147,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100148,London - South,£50k+,Low Income Social Tariff,1,0,1,1-3y
+C100149,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C100150,Swindon,£15k-£30k,Standard,0,0,1,3-5y
+C100151,Oxford,£15k-£30k,Metered,1,0,1,1-3y
+C100152,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100153,Thames Valley,<£15k,Standard,1,1,0,<1y
+C100154,London - North,£50k+,Standard,1,0,1,1-3y
+C100155,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C100156,London - South,£15k-£30k,Standard,0,0,1,3-5y
+C100157,Reading,£30k-£50k,Standard,1,0,1,3-5y
+C100158,Slough,£15k-£30k,Low Income Social Tariff,0,0,1,1-3y
+C100159,Slough,<£15k,Standard,1,0,1,1-3y
+C100160,London - North,<£15k,Unmetered,0,0,1,<1y
+C100161,Oxford,£30k-£50k,Unmetered,0,0,0,3-5y
+C100162,London - South,£30k-£50k,Standard,1,0,1,5+y
+C100163,London - North,<£15k,Metered,1,0,0,3-5y
+C100164,Thames Valley,£50k+,Metered,1,0,1,1-3y
+C100165,London - South,£30k-£50k,Metered,1,0,1,3-5y
+C100166,Swindon,£30k-£50k,Standard,0,0,1,1-3y
+C100167,Swindon,£15k-£30k,Standard,1,0,1,<1y
+C100168,London - South,<£15k,Standard,0,0,1,<1y
+C100169,Guildford,£30k-£50k,Metered,1,0,1,<1y
+C100170,London - South,£15k-£30k,Unmetered,1,0,1,<1y
+C100171,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100172,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100173,Guildford,<£15k,Unmetered,1,0,1,3-5y
+C100174,London - North,£30k-£50k,Metered,1,0,0,5+y
+C100175,London - North,£50k+,Standard,1,0,0,1-3y
+C100176,London - South,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C100177,Guildford,£15k-£30k,Standard,1,0,1,3-5y
+C100178,Oxford,£30k-£50k,Standard,1,0,0,<1y
+C100179,Slough,£15k-£30k,Metered,1,0,1,1-3y
+C100180,Oxford,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C100181,Oxford,£30k-£50k,Standard,1,0,1,5+y
+C100182,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100183,London - South,£15k-£30k,Standard,0,0,0,5+y
+C100184,Slough,<£15k,Standard,0,1,0,3-5y
+C100185,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C100186,London - South,£15k-£30k,Metered,1,0,0,5+y
+C100187,London - North,£15k-£30k,Low Income Social Tariff,1,0,0,5+y
+C100188,Slough,£15k-£30k,Standard,0,0,0,1-3y
+C100189,London - South,£15k-£30k,Standard,0,0,0,5+y
+C100190,Guildford,£30k-£50k,Standard,1,1,1,5+y
+C100191,London - South,£50k+,Standard,1,0,1,1-3y
+C100192,London - North,£15k-£30k,Metered,1,0,1,<1y
+C100193,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C100194,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100195,London - North,£15k-£30k,Standard,0,0,1,<1y
+C100196,Thames Valley,<£15k,Metered,1,0,0,1-3y
+C100197,Oxford,£30k-£50k,Standard,1,0,1,3-5y
+C100198,London - North,£50k+,Standard,1,0,1,5+y
+C100199,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,5+y
+C100200,Slough,£50k+,Metered,1,0,1,3-5y
+C100201,Guildford,£50k+,Low Income Social Tariff,1,0,0,1-3y
+C100202,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,1,<1y
+C100203,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100204,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,<1y
+C100205,London - South,£50k+,Metered,1,0,0,1-3y
+C100206,London - North,<£15k,Standard,1,0,0,5+y
+C100207,Reading,£15k-£30k,Standard,1,0,1,1-3y
+C100208,London - North,£30k-£50k,Standard,1,0,1,3-5y
+C100209,Thames Valley,£15k-£30k,Standard,1,0,0,3-5y
+C100210,Reading,£30k-£50k,Standard,0,0,0,5+y
+C100211,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C100212,London - North,£50k+,Metered,1,0,1,1-3y
+C100213,Swindon,£50k+,Metered,1,0,1,<1y
+C100214,Slough,£15k-£30k,Standard,0,0,1,3-5y
+C100215,Slough,£30k-£50k,Metered,1,1,1,1-3y
+C100216,London - North,£15k-£30k,Standard,1,0,0,1-3y
+C100217,London - North,£30k-£50k,Standard,0,0,0,3-5y
+C100218,Oxford,£30k-£50k,Standard,1,0,0,<1y
+C100219,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C100220,London - South,<£15k,Standard,1,0,0,<1y
+C100221,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C100222,Reading,£30k-£50k,Metered,1,0,1,<1y
+C100223,Guildford,£15k-£30k,Metered,1,0,0,<1y
+C100224,London - South,£15k-£30k,Standard,1,0,1,5+y
+C100225,Oxford,<£15k,Metered,1,1,0,5+y
+C100226,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100227,Thames Valley,£30k-£50k,Standard,1,0,0,3-5y
+C100228,Reading,<£15k,Metered,1,0,0,3-5y
+C100229,London - North,£15k-£30k,Metered,1,0,1,5+y
+C100230,London - North,£50k+,Metered,1,0,1,1-3y
+C100231,London - South,<£15k,Standard,0,0,0,<1y
+C100232,Guildford,£30k-£50k,Metered,1,0,1,3-5y
+C100233,Thames Valley,£15k-£30k,Standard,1,0,0,5+y
+C100234,Guildford,£30k-£50k,Standard,0,0,1,1-3y
+C100235,Swindon,£30k-£50k,Standard,0,0,1,1-3y
+C100236,Thames Valley,£50k+,Unmetered,0,0,1,1-3y
+C100237,Swindon,<£15k,Standard,1,0,0,1-3y
+C100238,London - North,£15k-£30k,Standard,1,0,0,3-5y
+C100239,London - North,£30k-£50k,Standard,0,0,0,1-3y
+C100240,Swindon,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C100241,Swindon,£15k-£30k,Metered,1,0,1,3-5y
+C100242,London - South,<£15k,Low Income Social Tariff,0,1,1,<1y
+C100243,Thames Valley,£50k+,Standard,1,0,1,3-5y
+C100244,Reading,£30k-£50k,Standard,1,0,1,3-5y
+C100245,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C100246,Reading,£30k-£50k,Standard,1,0,1,1-3y
+C100247,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100248,London - South,£15k-£30k,Low Income Social Tariff,0,0,0,1-3y
+C100249,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100250,Reading,£30k-£50k,Unmetered,1,0,1,1-3y
+C100251,Oxford,<£15k,Metered,1,1,1,1-3y
+C100252,Thames Valley,£50k+,Standard,1,0,1,3-5y
+C100253,London - South,£30k-£50k,Metered,1,0,0,<1y
+C100254,London - South,£15k-£30k,Standard,0,0,0,3-5y
+C100255,Slough,£15k-£30k,Metered,1,0,1,1-3y
+C100256,Swindon,<£15k,Standard,1,0,1,5+y
+C100257,London - North,£50k+,Standard,0,1,0,1-3y
+C100258,London - North,£50k+,Metered,1,0,1,5+y
+C100259,Thames Valley,£50k+,Standard,0,0,1,5+y
+C100260,London - North,£15k-£30k,Standard,1,0,0,<1y
+C100261,Swindon,<£15k,Metered,1,1,1,3-5y
+C100262,London - South,<£15k,Standard,0,1,0,<1y
+C100263,London - North,<£15k,Metered,1,0,0,5+y
+C100264,Oxford,<£15k,Standard,1,0,1,3-5y
+C100265,London - North,<£15k,Standard,1,1,0,1-3y
+C100266,London - South,£50k+,Standard,0,0,1,1-3y
+C100267,London - North,<£15k,Metered,1,0,0,1-3y
+C100268,London - North,<£15k,Unmetered,1,1,0,3-5y
+C100269,London - North,£30k-£50k,Standard,0,0,0,3-5y
+C100270,London - North,£15k-£30k,Unmetered,0,0,1,<1y
+C100271,London - North,£30k-£50k,Metered,1,0,0,1-3y
+C100272,London - North,£30k-£50k,Metered,1,0,0,1-3y
+C100273,Thames Valley,£50k+,Metered,1,0,1,3-5y
+C100274,Reading,£30k-£50k,Metered,1,0,1,<1y
+C100275,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100276,London - South,£30k-£50k,Metered,1,0,0,5+y
+C100277,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C100278,Oxford,£15k-£30k,Standard,1,0,1,3-5y
+C100279,Swindon,£15k-£30k,Standard,0,0,0,1-3y
+C100280,London - North,<£15k,Metered,1,0,0,1-3y
+C100281,London - North,£30k-£50k,Standard,0,0,0,3-5y
+C100282,London - South,£15k-£30k,Standard,0,0,1,1-3y
+C100283,London - South,<£15k,Standard,0,1,1,1-3y
+C100284,Thames Valley,£15k-£30k,Standard,0,0,1,5+y
+C100285,London - South,£30k-£50k,Metered,1,0,1,5+y
+C100286,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100287,London - South,£30k-£50k,Metered,1,0,1,<1y
+C100288,Thames Valley,£30k-£50k,Standard,1,0,1,<1y
+C100289,London - North,<£15k,Metered,1,0,1,<1y
+C100290,Swindon,£30k-£50k,Standard,1,0,1,5+y
+C100291,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100292,Oxford,<£15k,Metered,1,0,0,1-3y
+C100293,London - North,£30k-£50k,Metered,1,0,1,5+y
+C100294,Swindon,£50k+,Metered,1,0,1,<1y
+C100295,Oxford,£15k-£30k,Unmetered,1,0,1,1-3y
+C100296,Guildford,£15k-£30k,Metered,1,0,1,<1y
+C100297,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C100298,Slough,£15k-£30k,Metered,1,0,0,5+y
+C100299,Reading,£30k-£50k,Standard,0,0,1,5+y
+C100300,Slough,£30k-£50k,Unmetered,1,0,0,<1y
+C100301,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C100302,Thames Valley,<£15k,Standard,1,0,1,3-5y
+C100303,Thames Valley,£30k-£50k,Unmetered,1,0,1,<1y
+C100304,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C100305,Thames Valley,£30k-£50k,Standard,0,0,1,3-5y
+C100306,London - South,<£15k,Standard,1,0,0,1-3y
+C100307,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C100308,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100309,London - North,<£15k,Standard,0,1,0,5+y
+C100310,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100311,London - South,£15k-£30k,Low Income Social Tariff,0,0,0,3-5y
+C100312,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100313,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100314,London - South,£30k-£50k,Standard,1,0,1,<1y
+C100315,London - South,£15k-£30k,Standard,1,0,0,<1y
+C100316,London - South,£30k-£50k,Metered,1,0,0,3-5y
+C100317,Reading,£15k-£30k,Standard,1,0,1,3-5y
+C100318,London - South,£15k-£30k,Standard,1,0,0,1-3y
+C100319,Guildford,£30k-£50k,Standard,0,0,1,1-3y
+C100320,Oxford,£50k+,Standard,0,0,1,5+y
+C100321,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C100322,London - South,£15k-£30k,Metered,1,0,1,<1y
+C100323,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C100324,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C100325,Reading,<£15k,Low Income Social Tariff,1,1,1,3-5y
+C100326,Swindon,£15k-£30k,Metered,1,0,1,3-5y
+C100327,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100328,Reading,£50k+,Metered,1,0,1,3-5y
+C100329,London - South,£15k-£30k,Standard,0,0,0,1-3y
+C100330,Slough,£15k-£30k,Unmetered,0,0,0,3-5y
+C100331,London - North,£50k+,Standard,1,0,1,<1y
+C100332,Reading,£15k-£30k,Standard,0,0,1,1-3y
+C100333,Oxford,<£15k,Standard,0,0,0,3-5y
+C100334,London - North,<£15k,Standard,1,0,0,1-3y
+C100335,Reading,<£15k,Standard,0,0,0,<1y
+C100336,London - North,<£15k,Metered,1,0,1,1-3y
+C100337,Slough,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C100338,London - North,£30k-£50k,Standard,1,0,1,<1y
+C100339,Guildford,£30k-£50k,Metered,1,0,1,3-5y
+C100340,London - North,<£15k,Standard,0,0,1,3-5y
+C100341,Guildford,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C100342,Swindon,<£15k,Standard,1,0,0,1-3y
+C100343,Thames Valley,£50k+,Standard,1,0,1,3-5y
+C100344,Swindon,<£15k,Metered,1,0,0,<1y
+C100345,Swindon,£30k-£50k,Metered,1,0,1,5+y
+C100346,Guildford,£15k-£30k,Metered,1,0,1,3-5y
+C100347,London - South,£30k-£50k,Metered,1,0,0,<1y
+C100348,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C100349,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C100350,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C100351,London - North,£50k+,Standard,0,0,1,1-3y
+C100352,Thames Valley,£15k-£30k,Standard,0,0,1,3-5y
+C100353,Thames Valley,£30k-£50k,Standard,1,0,1,3-5y
+C100354,Thames Valley,£30k-£50k,Metered,1,0,1,5+y
+C100355,Thames Valley,£50k+,Standard,0,0,1,1-3y
+C100356,Slough,£15k-£30k,Metered,1,0,0,3-5y
+C100357,Swindon,£15k-£30k,Metered,1,0,0,3-5y
+C100358,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C100359,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C100360,Guildford,£15k-£30k,Standard,1,0,1,1-3y
+C100361,London - North,£50k+,Standard,0,1,1,3-5y
+C100362,London - North,£50k+,Metered,1,0,1,1-3y
+C100363,London - North,£15k-£30k,Metered,1,0,1,<1y
+C100364,Reading,£30k-£50k,Standard,0,0,0,1-3y
+C100365,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C100366,Slough,£50k+,Metered,1,1,1,<1y
+C100367,Reading,<£15k,Metered,1,1,0,<1y
+C100368,London - South,£15k-£30k,Standard,1,0,0,3-5y
+C100369,Oxford,£30k-£50k,Metered,1,0,0,5+y
+C100370,Slough,£15k-£30k,Low Income Social Tariff,1,1,0,1-3y
+C100371,London - South,£15k-£30k,Standard,1,1,1,<1y
+C100372,London - South,£50k+,Low Income Social Tariff,0,0,1,3-5y
+C100373,London - South,£50k+,Standard,0,0,0,1-3y
+C100374,London - North,£50k+,Metered,1,0,1,5+y
+C100375,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100376,Guildford,£15k-£30k,Standard,1,0,0,1-3y
+C100377,London - South,£15k-£30k,Low Income Social Tariff,0,0,1,1-3y
+C100378,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100379,Slough,£15k-£30k,Unmetered,1,0,1,3-5y
+C100380,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C100381,Guildford,£30k-£50k,Low Income Social Tariff,0,1,1,5+y
+C100382,Swindon,£15k-£30k,Low Income Social Tariff,0,0,1,3-5y
+C100383,Thames Valley,£30k-£50k,Metered,1,0,0,5+y
+C100384,London - South,£15k-£30k,Standard,0,0,1,5+y
+C100385,Guildford,£15k-£30k,Metered,1,0,1,1-3y
+C100386,Slough,<£15k,Metered,1,0,0,1-3y
+C100387,Guildford,<£15k,Unmetered,0,1,0,5+y
+C100388,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100389,Swindon,£15k-£30k,Standard,0,0,1,<1y
+C100390,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C100391,London - North,£30k-£50k,Metered,1,0,0,1-3y
+C100392,Thames Valley,£15k-£30k,Unmetered,1,0,0,5+y
+C100393,Reading,<£15k,Standard,1,1,1,1-3y
+C100394,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100395,Thames Valley,<£15k,Low Income Social Tariff,1,0,0,5+y
+C100396,Swindon,£30k-£50k,Standard,1,0,1,1-3y
+C100397,London - South,£15k-£30k,Standard,1,0,0,3-5y
+C100398,Thames Valley,<£15k,Metered,1,0,0,<1y
+C100399,Thames Valley,<£15k,Metered,1,0,0,<1y
+C100400,London - South,£15k-£30k,Standard,1,0,0,<1y
+C100401,Oxford,<£15k,Low Income Social Tariff,1,1,0,1-3y
+C100402,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C100403,London - North,<£15k,Low Income Social Tariff,0,0,1,1-3y
+C100404,Guildford,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C100405,Oxford,£15k-£30k,Metered,1,0,0,<1y
+C100406,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100407,Swindon,<£15k,Standard,1,1,1,<1y
+C100408,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100409,Guildford,£50k+,Standard,1,0,1,5+y
+C100410,Reading,<£15k,Metered,1,1,1,3-5y
+C100411,Reading,<£15k,Standard,1,0,1,3-5y
+C100412,London - North,£50k+,Metered,1,0,1,3-5y
+C100413,Oxford,£15k-£30k,Standard,0,0,0,3-5y
+C100414,London - North,<£15k,Standard,1,0,0,5+y
+C100415,London - South,<£15k,Standard,0,1,0,5+y
+C100416,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100417,Slough,£30k-£50k,Metered,1,0,1,3-5y
+C100418,London - North,£15k-£30k,Standard,0,0,1,3-5y
+C100419,Oxford,£50k+,Low Income Social Tariff,1,0,0,<1y
+C100420,Reading,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100421,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100422,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100423,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100424,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C100425,Swindon,<£15k,Metered,1,1,0,<1y
+C100426,London - South,£15k-£30k,Standard,1,0,1,1-3y
+C100427,Swindon,£30k-£50k,Low Income Social Tariff,1,0,1,5+y
+C100428,London - North,<£15k,Low Income Social Tariff,0,1,0,5+y
+C100429,Swindon,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C100430,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C100431,Slough,£30k-£50k,Metered,1,0,1,3-5y
+C100432,Reading,£30k-£50k,Unmetered,0,0,1,3-5y
+C100433,Swindon,£30k-£50k,Standard,1,0,1,1-3y
+C100434,London - North,£30k-£50k,Standard,0,0,0,1-3y
+C100435,London - North,<£15k,Metered,1,0,0,<1y
+C100436,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100437,Thames Valley,£30k-£50k,Standard,0,0,0,3-5y
+C100438,Slough,£15k-£30k,Standard,0,0,1,1-3y
+C100439,Reading,<£15k,Metered,1,0,1,5+y
+C100440,Swindon,£15k-£30k,Standard,0,0,0,3-5y
+C100441,London - North,£15k-£30k,Standard,1,0,0,5+y
+C100442,Slough,£15k-£30k,Standard,0,0,0,1-3y
+C100443,London - North,<£15k,Standard,0,0,1,1-3y
+C100444,London - South,£30k-£50k,Low Income Social Tariff,1,0,1,5+y
+C100445,Slough,£50k+,Standard,0,0,1,5+y
+C100446,Guildford,<£15k,Metered,1,0,1,5+y
+C100447,Reading,£50k+,Metered,1,0,1,3-5y
+C100448,London - North,<£15k,Standard,0,0,1,1-3y
+C100449,Reading,£50k+,Low Income Social Tariff,0,0,1,<1y
+C100450,London - North,£50k+,Metered,1,0,0,1-3y
+C100451,Oxford,<£15k,Metered,1,0,1,5+y
+C100452,Slough,£30k-£50k,Standard,1,0,0,1-3y
+C100453,London - North,£50k+,Standard,0,0,1,3-5y
+C100454,London - North,£50k+,Unmetered,1,0,1,5+y
+C100455,London - North,£50k+,Metered,1,0,1,5+y
+C100456,Guildford,£15k-£30k,Low Income Social Tariff,0,0,1,5+y
+C100457,Thames Valley,<£15k,Low Income Social Tariff,1,0,1,1-3y
+C100458,Swindon,£30k-£50k,Standard,1,0,1,1-3y
+C100459,Reading,£30k-£50k,Metered,1,0,0,5+y
+C100460,Thames Valley,£30k-£50k,Metered,1,0,0,<1y
+C100461,London - North,£15k-£30k,Metered,1,0,1,<1y
+C100462,Guildford,£15k-£30k,Standard,1,0,1,5+y
+C100463,London - South,<£15k,Standard,1,0,1,3-5y
+C100464,Thames Valley,£30k-£50k,Metered,1,0,0,1-3y
+C100465,Reading,<£15k,Metered,1,0,1,<1y
+C100466,Reading,£30k-£50k,Metered,1,0,1,1-3y
+C100467,Guildford,£30k-£50k,Standard,1,0,1,5+y
+C100468,London - North,£15k-£30k,Standard,1,0,0,3-5y
+C100469,Thames Valley,£15k-£30k,Unmetered,0,1,1,1-3y
+C100470,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C100471,Thames Valley,£50k+,Metered,1,0,1,5+y
+C100472,London - North,£30k-£50k,Metered,1,0,1,5+y
+C100473,London - North,£15k-£30k,Metered,1,1,1,1-3y
+C100474,London - South,<£15k,Metered,1,1,1,3-5y
+C100475,London - South,<£15k,Metered,1,1,0,1-3y
+C100476,London - South,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100477,Reading,£50k+,Low Income Social Tariff,1,0,0,<1y
+C100478,Reading,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C100479,London - South,<£15k,Metered,1,0,0,1-3y
+C100480,London - South,£30k-£50k,Metered,1,0,0,1-3y
+C100481,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100482,Thames Valley,£30k-£50k,Low Income Social Tariff,1,0,0,<1y
+C100483,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100484,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100485,London - South,£50k+,Metered,1,0,1,1-3y
+C100486,Thames Valley,£15k-£30k,Metered,1,0,0,<1y
+C100487,London - South,£30k-£50k,Metered,1,0,1,5+y
+C100488,Thames Valley,£50k+,Standard,0,0,0,1-3y
+C100489,Thames Valley,<£15k,Metered,1,0,0,5+y
+C100490,Slough,<£15k,Metered,1,0,1,3-5y
+C100491,Reading,£30k-£50k,Standard,0,0,0,3-5y
+C100492,Reading,£15k-£30k,Low Income Social Tariff,0,0,0,1-3y
+C100493,London - South,<£15k,Metered,1,1,0,<1y
+C100494,Swindon,£15k-£30k,Standard,0,0,1,5+y
+C100495,Thames Valley,£30k-£50k,Metered,1,0,1,5+y
+C100496,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100497,Reading,£15k-£30k,Metered,1,0,1,3-5y
+C100498,London - South,£30k-£50k,Standard,1,0,0,1-3y
+C100499,Thames Valley,£15k-£30k,Low Income Social Tariff,0,0,1,5+y
+C100500,Slough,£30k-£50k,Metered,1,0,1,3-5y
+C100501,Oxford,£15k-£30k,Metered,1,0,0,<1y
+C100502,Oxford,£50k+,Standard,0,0,1,5+y
+C100503,Thames Valley,£30k-£50k,Metered,1,1,1,5+y
+C100504,Thames Valley,<£15k,Metered,1,0,0,3-5y
+C100505,Swindon,£50k+,Metered,1,0,1,<1y
+C100506,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100507,Swindon,<£15k,Metered,1,1,1,3-5y
+C100508,Thames Valley,<£15k,Metered,1,0,0,1-3y
+C100509,London - North,£30k-£50k,Standard,1,0,1,5+y
+C100510,London - North,<£15k,Unmetered,1,0,0,1-3y
+C100511,Swindon,£15k-£30k,Metered,1,0,1,5+y
+C100512,London - North,<£15k,Unmetered,1,1,1,3-5y
+C100513,London - South,£15k-£30k,Unmetered,0,0,0,1-3y
+C100514,London - South,£15k-£30k,Low Income Social Tariff,1,1,1,5+y
+C100515,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C100516,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C100517,Slough,<£15k,Standard,1,0,1,1-3y
+C100518,London - North,£30k-£50k,Metered,1,0,1,<1y
+C100519,Swindon,£15k-£30k,Metered,1,0,1,3-5y
+C100520,Swindon,£30k-£50k,Metered,1,0,0,1-3y
+C100521,London - South,<£15k,Low Income Social Tariff,0,0,0,5+y
+C100522,London - North,<£15k,Standard,0,1,1,5+y
+C100523,Reading,£15k-£30k,Standard,0,0,1,3-5y
+C100524,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100525,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100526,Guildford,£30k-£50k,Standard,1,0,1,<1y
+C100527,Guildford,£15k-£30k,Standard,1,0,1,5+y
+C100528,Slough,£15k-£30k,Low Income Social Tariff,0,0,0,1-3y
+C100529,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100530,Reading,<£15k,Standard,1,0,1,1-3y
+C100531,Slough,£15k-£30k,Standard,0,0,0,1-3y
+C100532,London - South,£15k-£30k,Metered,1,0,0,5+y
+C100533,Reading,£15k-£30k,Standard,1,0,1,1-3y
+C100534,London - North,<£15k,Metered,1,1,0,5+y
+C100535,London - North,£30k-£50k,Metered,1,0,1,5+y
+C100536,Thames Valley,£50k+,Standard,0,0,0,1-3y
+C100537,London - North,<£15k,Metered,1,0,1,1-3y
+C100538,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C100539,Swindon,£30k-£50k,Standard,0,0,1,5+y
+C100540,Guildford,£15k-£30k,Low Income Social Tariff,1,0,0,5+y
+C100541,Thames Valley,£30k-£50k,Metered,1,0,0,1-3y
+C100542,Swindon,£30k-£50k,Low Income Social Tariff,1,0,1,3-5y
+C100543,Guildford,£50k+,Standard,1,0,1,1-3y
+C100544,London - North,£50k+,Standard,1,0,1,3-5y
+C100545,Thames Valley,<£15k,Metered,1,0,1,3-5y
+C100546,London - South,£15k-£30k,Metered,1,0,0,5+y
+C100547,London - North,£15k-£30k,Unmetered,0,0,0,1-3y
+C100548,Slough,<£15k,Standard,1,0,1,1-3y
+C100549,London - South,£15k-£30k,Low Income Social Tariff,0,0,1,1-3y
+C100550,Thames Valley,£50k+,Low Income Social Tariff,1,0,0,<1y
+C100551,London - North,<£15k,Metered,1,0,1,1-3y
+C100552,London - North,£15k-£30k,Standard,0,0,0,5+y
+C100553,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C100554,London - North,£15k-£30k,Standard,0,0,1,1-3y
+C100555,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100556,London - South,£50k+,Metered,1,0,1,<1y
+C100557,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C100558,Thames Valley,<£15k,Metered,1,0,1,5+y
+C100559,Thames Valley,<£15k,Metered,1,0,0,<1y
+C100560,London - North,£50k+,Metered,1,0,1,1-3y
+C100561,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100562,Swindon,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100563,Reading,<£15k,Standard,1,0,0,1-3y
+C100564,Reading,£15k-£30k,Unmetered,0,0,0,1-3y
+C100565,Reading,£50k+,Metered,1,0,1,1-3y
+C100566,Slough,£15k-£30k,Low Income Social Tariff,0,0,1,5+y
+C100567,London - North,£50k+,Metered,1,0,0,1-3y
+C100568,London - South,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100569,Thames Valley,£15k-£30k,Standard,1,0,0,1-3y
+C100570,London - South,£30k-£50k,Metered,1,0,1,5+y
+C100571,Swindon,£15k-£30k,Standard,1,0,0,<1y
+C100572,Thames Valley,£15k-£30k,Standard,1,0,1,5+y
+C100573,Slough,£30k-£50k,Metered,1,0,1,1-3y
+C100574,Swindon,£15k-£30k,Standard,0,0,1,5+y
+C100575,Thames Valley,£15k-£30k,Standard,1,0,0,1-3y
+C100576,Oxford,£50k+,Low Income Social Tariff,1,1,1,<1y
+C100577,Thames Valley,<£15k,Standard,1,0,0,1-3y
+C100578,Swindon,£15k-£30k,Metered,1,0,1,1-3y
+C100579,London - South,<£15k,Standard,0,0,1,3-5y
+C100580,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C100581,Thames Valley,<£15k,Metered,1,0,1,3-5y
+C100582,London - North,£30k-£50k,Metered,1,0,1,<1y
+C100583,London - South,<£15k,Metered,1,1,0,3-5y
+C100584,Oxford,£30k-£50k,Low Income Social Tariff,0,0,0,1-3y
+C100585,Reading,£15k-£30k,Metered,1,0,0,5+y
+C100586,London - North,£15k-£30k,Standard,0,0,1,3-5y
+C100587,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100588,London - North,£30k-£50k,Metered,1,0,0,5+y
+C100589,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100590,Oxford,£15k-£30k,Metered,1,0,0,1-3y
+C100591,Thames Valley,£30k-£50k,Standard,0,0,1,1-3y
+C100592,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100593,Thames Valley,<£15k,Standard,1,0,0,1-3y
+C100594,London - North,£50k+,Standard,0,1,1,<1y
+C100595,London - South,£15k-£30k,Unmetered,0,0,1,3-5y
+C100596,Slough,<£15k,Low Income Social Tariff,0,0,1,<1y
+C100597,Reading,£15k-£30k,Low Income Social Tariff,0,0,1,3-5y
+C100598,Guildford,<£15k,Unmetered,0,1,0,<1y
+C100599,Reading,£15k-£30k,Metered,1,0,1,1-3y
+C100600,Thames Valley,£30k-£50k,Standard,0,0,1,5+y
+C100601,Slough,<£15k,Standard,1,1,1,<1y
+C100602,Oxford,£30k-£50k,Metered,1,0,1,3-5y
+C100603,Slough,£50k+,Standard,0,0,1,3-5y
+C100604,Guildford,£30k-£50k,Low Income Social Tariff,0,0,1,5+y
+C100605,Swindon,£30k-£50k,Standard,1,1,0,<1y
+C100606,Oxford,£30k-£50k,Standard,1,0,1,3-5y
+C100607,London - North,£50k+,Standard,1,0,1,1-3y
+C100608,Slough,£15k-£30k,Standard,1,0,0,1-3y
+C100609,Thames Valley,<£15k,Standard,0,1,1,1-3y
+C100610,Thames Valley,£15k-£30k,Metered,1,0,0,1-3y
+C100611,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C100612,Guildford,<£15k,Metered,1,0,0,<1y
+C100613,Guildford,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C100614,London - South,<£15k,Metered,1,0,1,3-5y
+C100615,Slough,£50k+,Metered,1,0,1,1-3y
+C100616,Slough,£15k-£30k,Standard,0,0,1,<1y
+C100617,London - South,<£15k,Standard,0,0,1,1-3y
+C100618,London - North,<£15k,Standard,1,0,0,1-3y
+C100619,London - North,£15k-£30k,Unmetered,1,0,0,3-5y
+C100620,Slough,£15k-£30k,Metered,1,0,1,5+y
+C100621,Thames Valley,<£15k,Standard,1,0,0,1-3y
+C100622,Guildford,£15k-£30k,Metered,1,0,0,3-5y
+C100623,Thames Valley,<£15k,Low Income Social Tariff,0,0,0,<1y
+C100624,Guildford,£15k-£30k,Metered,1,0,0,5+y
+C100625,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C100626,Swindon,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100627,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100628,Thames Valley,<£15k,Metered,1,1,0,<1y
+C100629,Swindon,<£15k,Standard,0,0,0,3-5y
+C100630,Oxford,<£15k,Standard,1,0,0,1-3y
+C100631,Swindon,£30k-£50k,Unmetered,1,0,0,1-3y
+C100632,London - North,£50k+,Metered,1,0,1,<1y
+C100633,London - South,£50k+,Metered,1,0,1,5+y
+C100634,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100635,London - North,£15k-£30k,Standard,1,0,1,5+y
+C100636,Reading,£15k-£30k,Low Income Social Tariff,1,0,0,5+y
+C100637,Slough,£30k-£50k,Standard,1,1,0,5+y
+C100638,Slough,£30k-£50k,Metered,1,0,1,1-3y
+C100639,Oxford,£30k-£50k,Metered,1,0,1,<1y
+C100640,Slough,£50k+,Standard,0,0,1,1-3y
+C100641,Swindon,£15k-£30k,Standard,0,0,1,1-3y
+C100642,London - North,£30k-£50k,Metered,1,0,0,3-5y
+C100643,London - South,£30k-£50k,Standard,0,0,1,<1y
+C100644,Reading,£15k-£30k,Standard,1,0,0,<1y
+C100645,Swindon,£50k+,Metered,1,0,1,3-5y
+C100646,London - North,<£15k,Standard,0,1,1,<1y
+C100647,Thames Valley,£50k+,Standard,1,0,1,<1y
+C100648,Reading,£30k-£50k,Standard,0,0,1,<1y
+C100649,London - North,<£15k,Low Income Social Tariff,1,0,1,3-5y
+C100650,London - South,£30k-£50k,Standard,0,0,0,<1y
+C100651,Oxford,<£15k,Standard,1,0,0,<1y
+C100652,Reading,£30k-£50k,Standard,1,0,1,1-3y
+C100653,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C100654,Swindon,£30k-£50k,Standard,1,0,0,<1y
+C100655,London - South,£30k-£50k,Standard,1,0,0,<1y
+C100656,Swindon,<£15k,Standard,1,0,1,5+y
+C100657,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100658,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,0,<1y
+C100659,London - South,<£15k,Standard,1,0,1,1-3y
+C100660,London - South,£15k-£30k,Standard,0,0,1,<1y
+C100661,Oxford,£15k-£30k,Low Income Social Tariff,0,0,0,3-5y
+C100662,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100663,London - North,£15k-£30k,Metered,1,0,0,5+y
+C100664,London - South,£30k-£50k,Standard,0,0,1,5+y
+C100665,Slough,£15k-£30k,Metered,1,0,0,3-5y
+C100666,Swindon,£50k+,Standard,1,0,0,<1y
+C100667,Guildford,£15k-£30k,Standard,0,0,0,5+y
+C100668,London - South,£15k-£30k,Standard,1,0,0,3-5y
+C100669,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100670,London - North,£15k-£30k,Standard,0,0,1,<1y
+C100671,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C100672,Guildford,£15k-£30k,Standard,0,0,0,3-5y
+C100673,Slough,<£15k,Standard,1,0,1,5+y
+C100674,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C100675,London - South,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C100676,Oxford,£15k-£30k,Standard,1,0,0,1-3y
+C100677,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100678,London - North,£15k-£30k,Standard,1,0,1,5+y
+C100679,London - South,£50k+,Standard,1,0,1,3-5y
+C100680,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100681,London - North,£50k+,Standard,1,0,1,<1y
+C100682,London - North,£30k-£50k,Metered,1,0,0,3-5y
+C100683,Thames Valley,<£15k,Metered,1,1,1,5+y
+C100684,Reading,£15k-£30k,Standard,1,0,1,<1y
+C100685,London - South,<£15k,Standard,0,0,1,1-3y
+C100686,London - South,£30k-£50k,Standard,1,0,0,5+y
+C100687,Guildford,£15k-£30k,Unmetered,1,0,0,1-3y
+C100688,Slough,£15k-£30k,Metered,1,0,1,1-3y
+C100689,Thames Valley,£50k+,Standard,0,0,1,1-3y
+C100690,London - South,<£15k,Standard,0,0,1,1-3y
+C100691,Oxford,£15k-£30k,Metered,1,0,1,<1y
+C100692,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C100693,London - South,<£15k,Metered,1,0,1,3-5y
+C100694,Oxford,£15k-£30k,Metered,1,0,1,3-5y
+C100695,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C100696,Slough,<£15k,Standard,1,0,1,<1y
+C100697,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C100698,Reading,£15k-£30k,Standard,0,0,1,<1y
+C100699,London - South,£30k-£50k,Metered,1,0,1,<1y
+C100700,London - South,<£15k,Low Income Social Tariff,1,1,1,3-5y
+C100701,London - South,£50k+,Standard,1,0,1,<1y
+C100702,London - North,£50k+,Metered,1,0,0,3-5y
+C100703,Oxford,<£15k,Metered,1,1,1,<1y
+C100704,London - South,£15k-£30k,Standard,1,0,1,<1y
+C100705,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C100706,Swindon,£30k-£50k,Standard,1,0,0,1-3y
+C100707,Swindon,£15k-£30k,Metered,1,0,0,3-5y
+C100708,London - South,<£15k,Metered,1,0,0,3-5y
+C100709,Thames Valley,<£15k,Metered,1,1,0,<1y
+C100710,Guildford,£50k+,Low Income Social Tariff,1,0,0,3-5y
+C100711,Reading,£15k-£30k,Metered,1,0,1,3-5y
+C100712,Swindon,£30k-£50k,Unmetered,0,0,0,1-3y
+C100713,Oxford,£15k-£30k,Metered,1,0,0,<1y
+C100714,Swindon,£50k+,Low Income Social Tariff,1,0,1,<1y
+C100715,London - North,<£15k,Low Income Social Tariff,1,0,1,<1y
+C100716,Thames Valley,<£15k,Metered,1,0,1,5+y
+C100717,London - North,£50k+,Metered,1,0,1,1-3y
+C100718,Reading,£50k+,Low Income Social Tariff,1,0,0,1-3y
+C100719,Guildford,£15k-£30k,Metered,1,0,1,3-5y
+C100720,Thames Valley,£15k-£30k,Metered,1,0,0,1-3y
+C100721,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100722,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,<1y
+C100723,Guildford,<£15k,Metered,1,1,1,1-3y
+C100724,London - North,£50k+,Metered,1,0,1,<1y
+C100725,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C100726,London - South,£30k-£50k,Unmetered,1,0,1,1-3y
+C100727,London - North,<£15k,Standard,1,0,1,3-5y
+C100728,Thames Valley,<£15k,Metered,1,0,0,3-5y
+C100729,Thames Valley,£30k-£50k,Metered,1,0,0,3-5y
+C100730,London - South,£15k-£30k,Low Income Social Tariff,0,0,1,<1y
+C100731,London - North,£30k-£50k,Low Income Social Tariff,0,0,1,5+y
+C100732,London - North,<£15k,Metered,1,0,0,<1y
+C100733,London - South,£50k+,Metered,1,0,1,5+y
+C100734,London - North,£30k-£50k,Standard,0,0,1,3-5y
+C100735,Reading,£30k-£50k,Unmetered,0,0,1,3-5y
+C100736,London - North,<£15k,Standard,1,1,1,1-3y
+C100737,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100738,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C100739,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100740,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100741,London - North,<£15k,Standard,1,0,1,<1y
+C100742,Oxford,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C100743,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100744,Thames Valley,£15k-£30k,Standard,1,0,0,5+y
+C100745,Thames Valley,<£15k,Metered,1,1,0,1-3y
+C100746,London - South,£15k-£30k,Standard,1,0,0,1-3y
+C100747,London - South,£30k-£50k,Low Income Social Tariff,1,0,0,1-3y
+C100748,Swindon,£15k-£30k,Standard,1,0,0,1-3y
+C100749,Swindon,£15k-£30k,Standard,0,0,1,1-3y
+C100750,London - South,£15k-£30k,Standard,1,0,0,1-3y
+C100751,London - South,£30k-£50k,Metered,1,0,0,3-5y
+C100752,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100753,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C100754,Reading,£50k+,Metered,1,0,1,1-3y
+C100755,London - South,£15k-£30k,Standard,0,0,1,<1y
+C100756,London - South,£50k+,Standard,0,0,1,1-3y
+C100757,Guildford,£30k-£50k,Standard,1,0,1,1-3y
+C100758,London - North,<£15k,Low Income Social Tariff,1,0,1,1-3y
+C100759,Thames Valley,£15k-£30k,Standard,1,0,1,1-3y
+C100760,Slough,£30k-£50k,Unmetered,0,0,0,1-3y
+C100761,London - North,£50k+,Standard,0,0,1,5+y
+C100762,London - North,£15k-£30k,Standard,1,0,0,1-3y
+C100763,London - North,<£15k,Standard,0,0,1,1-3y
+C100764,Oxford,£15k-£30k,Standard,1,0,1,<1y
+C100765,London - North,<£15k,Metered,1,0,1,<1y
+C100766,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100767,London - North,£15k-£30k,Standard,0,0,0,3-5y
+C100768,London - North,£30k-£50k,Metered,1,0,1,<1y
+C100769,Reading,£30k-£50k,Metered,1,0,1,<1y
+C100770,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C100771,Thames Valley,£30k-£50k,Unmetered,0,0,1,1-3y
+C100772,Thames Valley,£30k-£50k,Metered,1,0,1,5+y
+C100773,Swindon,£30k-£50k,Metered,1,0,1,<1y
+C100774,London - North,£30k-£50k,Metered,1,0,0,<1y
+C100775,Swindon,<£15k,Metered,1,0,1,1-3y
+C100776,Reading,£15k-£30k,Metered,1,0,1,<1y
+C100777,London - North,<£15k,Standard,0,0,0,<1y
+C100778,Slough,£30k-£50k,Metered,1,0,1,1-3y
+C100779,Swindon,£30k-£50k,Unmetered,0,0,0,1-3y
+C100780,London - South,£15k-£30k,Standard,0,0,1,<1y
+C100781,Oxford,<£15k,Low Income Social Tariff,1,0,1,3-5y
+C100782,Thames Valley,£15k-£30k,Low Income Social Tariff,0,0,0,1-3y
+C100783,Reading,£30k-£50k,Standard,1,0,1,<1y
+C100784,Guildford,<£15k,Metered,1,0,1,5+y
+C100785,London - South,<£15k,Low Income Social Tariff,1,0,0,1-3y
+C100786,Swindon,£50k+,Unmetered,0,0,1,5+y
+C100787,London - South,£30k-£50k,Standard,0,0,1,5+y
+C100788,Swindon,<£15k,Standard,1,0,1,1-3y
+C100789,Reading,£15k-£30k,Metered,1,0,0,1-3y
+C100790,London - North,£50k+,Standard,1,0,1,5+y
+C100791,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C100792,London - South,£30k-£50k,Standard,0,0,1,<1y
+C100793,London - North,£15k-£30k,Standard,0,1,1,1-3y
+C100794,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100795,London - South,<£15k,Metered,1,0,0,5+y
+C100796,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C100797,London - North,<£15k,Metered,1,1,1,5+y
+C100798,Slough,<£15k,Metered,1,1,1,3-5y
+C100799,Slough,£30k-£50k,Standard,1,0,1,3-5y
+C100800,Slough,£50k+,Standard,0,0,1,1-3y
+C100801,London - South,£30k-£50k,Standard,0,0,1,5+y
+C100802,Oxford,£15k-£30k,Standard,0,0,0,5+y
+C100803,Thames Valley,£15k-£30k,Standard,1,0,0,5+y
+C100804,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100805,London - North,£15k-£30k,Standard,0,0,0,1-3y
+C100806,Reading,£15k-£30k,Metered,1,0,0,1-3y
+C100807,London - North,£15k-£30k,Metered,1,0,1,5+y
+C100808,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,1,<1y
+C100809,Guildford,£50k+,Metered,1,0,0,1-3y
+C100810,London - North,£50k+,Metered,1,0,1,1-3y
+C100811,London - North,<£15k,Standard,1,0,1,3-5y
+C100812,Guildford,£15k-£30k,Metered,1,1,0,1-3y
+C100813,Thames Valley,<£15k,Standard,0,1,1,<1y
+C100814,London - North,£15k-£30k,Metered,1,0,0,<1y
+C100815,Oxford,£15k-£30k,Standard,1,0,1,1-3y
+C100816,Oxford,<£15k,Metered,1,0,1,1-3y
+C100817,Thames Valley,£30k-£50k,Standard,0,0,1,<1y
+C100818,Reading,£15k-£30k,Metered,1,0,1,3-5y
+C100819,London - South,£50k+,Low Income Social Tariff,1,0,0,1-3y
+C100820,London - North,<£15k,Metered,1,1,0,1-3y
+C100821,Thames Valley,<£15k,Metered,1,0,0,1-3y
+C100822,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100823,Reading,<£15k,Standard,1,1,1,5+y
+C100824,Swindon,£15k-£30k,Metered,1,0,1,<1y
+C100825,London - North,£50k+,Metered,1,0,1,1-3y
+C100826,Thames Valley,<£15k,Standard,0,1,0,3-5y
+C100827,London - South,<£15k,Standard,0,0,1,<1y
+C100828,Oxford,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C100829,London - South,£15k-£30k,Metered,1,0,1,5+y
+C100830,Reading,£15k-£30k,Metered,1,0,0,3-5y
+C100831,Thames Valley,£15k-£30k,Metered,1,0,1,5+y
+C100832,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100833,Reading,<£15k,Metered,1,0,0,1-3y
+C100834,Slough,£15k-£30k,Standard,1,0,0,<1y
+C100835,Thames Valley,£30k-£50k,Metered,1,0,1,<1y
+C100836,Slough,£30k-£50k,Metered,1,0,1,1-3y
+C100837,Guildford,£15k-£30k,Standard,0,0,1,1-3y
+C100838,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C100839,Thames Valley,<£15k,Standard,1,0,0,<1y
+C100840,London - North,<£15k,Metered,1,0,0,3-5y
+C100841,Swindon,<£15k,Metered,1,0,1,<1y
+C100842,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C100843,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100844,London - North,£30k-£50k,Unmetered,1,0,1,3-5y
+C100845,Oxford,<£15k,Metered,1,1,0,1-3y
+C100846,London - South,£30k-£50k,Metered,1,0,0,3-5y
+C100847,Reading,£30k-£50k,Metered,1,0,1,<1y
+C100848,London - North,<£15k,Standard,0,1,1,1-3y
+C100849,Guildford,<£15k,Standard,1,0,1,5+y
+C100850,London - North,<£15k,Metered,1,0,1,<1y
+C100851,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C100852,Swindon,£15k-£30k,Standard,0,0,1,<1y
+C100853,Oxford,£15k-£30k,Standard,0,0,1,<1y
+C100854,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100855,Thames Valley,£30k-£50k,Standard,0,0,1,<1y
+C100856,Slough,£15k-£30k,Metered,1,0,0,1-3y
+C100857,Oxford,£15k-£30k,Metered,1,0,0,5+y
+C100858,London - South,£50k+,Metered,1,0,1,<1y
+C100859,Thames Valley,<£15k,Standard,0,1,1,<1y
+C100860,Slough,£30k-£50k,Metered,1,0,1,5+y
+C100861,Slough,<£15k,Standard,1,0,1,1-3y
+C100862,Swindon,£15k-£30k,Metered,1,0,1,5+y
+C100863,Thames Valley,£50k+,Standard,0,0,0,1-3y
+C100864,London - North,£30k-£50k,Unmetered,0,0,1,3-5y
+C100865,Oxford,£30k-£50k,Standard,0,0,1,5+y
+C100866,Oxford,£15k-£30k,Metered,1,0,1,<1y
+C100867,Swindon,£15k-£30k,Standard,0,0,0,3-5y
+C100868,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C100869,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100870,Slough,£15k-£30k,Standard,1,0,1,<1y
+C100871,London - North,£15k-£30k,Standard,0,0,0,1-3y
+C100872,Guildford,£15k-£30k,Standard,1,0,0,<1y
+C100873,London - South,£15k-£30k,Standard,0,0,1,5+y
+C100874,Slough,£15k-£30k,Unmetered,0,0,1,<1y
+C100875,Oxford,<£15k,Metered,1,0,1,<1y
+C100876,London - South,£30k-£50k,Standard,1,0,0,5+y
+C100877,London - South,£30k-£50k,Unmetered,0,0,0,1-3y
+C100878,Reading,<£15k,Standard,1,0,1,3-5y
+C100879,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C100880,London - South,£30k-£50k,Metered,1,0,1,3-5y
+C100881,Reading,£15k-£30k,Low Income Social Tariff,0,0,1,<1y
+C100882,Guildford,<£15k,Metered,1,0,0,1-3y
+C100883,Thames Valley,<£15k,Metered,1,0,1,1-3y
+C100884,London - North,<£15k,Unmetered,1,0,1,1-3y
+C100885,London - South,£30k-£50k,Standard,0,0,0,1-3y
+C100886,London - South,£50k+,Unmetered,1,0,1,<1y
+C100887,London - North,<£15k,Low Income Social Tariff,1,0,0,3-5y
+C100888,London - North,£30k-£50k,Low Income Social Tariff,1,0,1,<1y
+C100889,Reading,<£15k,Standard,0,0,0,1-3y
+C100890,London - South,£15k-£30k,Standard,0,0,0,1-3y
+C100891,Guildford,£30k-£50k,Metered,1,0,1,1-3y
+C100892,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100893,London - North,<£15k,Metered,1,1,0,1-3y
+C100894,Slough,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C100895,Oxford,£50k+,Metered,1,0,0,3-5y
+C100896,London - South,£15k-£30k,Standard,1,0,0,5+y
+C100897,London - North,<£15k,Metered,1,1,0,3-5y
+C100898,London - North,<£15k,Standard,0,0,0,<1y
+C100899,Thames Valley,£15k-£30k,Standard,1,0,0,5+y
+C100900,Thames Valley,£15k-£30k,Standard,0,0,1,3-5y
+C100901,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C100902,London - North,£30k-£50k,Metered,1,0,1,<1y
+C100903,Thames Valley,£50k+,Metered,1,0,1,<1y
+C100904,Guildford,£30k-£50k,Standard,0,0,1,3-5y
+C100905,Reading,£15k-£30k,Metered,1,0,0,1-3y
+C100906,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C100907,London - North,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C100908,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C100909,London - South,£50k+,Metered,1,0,0,<1y
+C100910,Slough,£30k-£50k,Metered,1,0,1,<1y
+C100911,Oxford,£50k+,Metered,1,0,1,<1y
+C100912,Oxford,£15k-£30k,Low Income Social Tariff,1,0,0,3-5y
+C100913,Guildford,£15k-£30k,Standard,1,0,1,1-3y
+C100914,Guildford,£15k-£30k,Standard,0,0,1,5+y
+C100915,Guildford,<£15k,Standard,1,0,1,3-5y
+C100916,London - North,£15k-£30k,Metered,1,0,0,3-5y
+C100917,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C100918,London - South,<£15k,Metered,1,0,1,3-5y
+C100919,Thames Valley,£50k+,Metered,1,0,0,5+y
+C100920,London - North,<£15k,Standard,1,0,1,3-5y
+C100921,Swindon,<£15k,Low Income Social Tariff,1,0,1,<1y
+C100922,Reading,£30k-£50k,Standard,0,0,1,3-5y
+C100923,Thames Valley,<£15k,Low Income Social Tariff,1,0,1,<1y
+C100924,London - North,£50k+,Standard,0,0,1,<1y
+C100925,London - South,£30k-£50k,Metered,1,0,0,3-5y
+C100926,London - North,<£15k,Metered,1,0,0,5+y
+C100927,Swindon,£30k-£50k,Low Income Social Tariff,0,0,1,<1y
+C100928,Thames Valley,£30k-£50k,Standard,0,0,0,<1y
+C100929,Slough,£30k-£50k,Low Income Social Tariff,0,0,1,5+y
+C100930,London - South,£30k-£50k,Metered,1,1,1,<1y
+C100931,London - South,£30k-£50k,Metered,1,1,1,<1y
+C100932,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C100933,Slough,£15k-£30k,Standard,1,0,1,5+y
+C100934,Slough,£30k-£50k,Metered,1,0,0,1-3y
+C100935,London - North,£50k+,Standard,1,0,1,1-3y
+C100936,Guildford,£15k-£30k,Standard,0,0,1,1-3y
+C100937,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C100938,Oxford,£15k-£30k,Metered,1,0,0,3-5y
+C100939,London - North,£30k-£50k,Standard,1,0,1,5+y
+C100940,London - South,£50k+,Standard,1,0,0,1-3y
+C100941,Swindon,<£15k,Standard,0,0,1,1-3y
+C100942,London - North,<£15k,Standard,0,0,0,1-3y
+C100943,London - South,£15k-£30k,Metered,1,0,0,<1y
+C100944,Thames Valley,£15k-£30k,Standard,0,0,1,1-3y
+C100945,London - South,£15k-£30k,Low Income Social Tariff,1,1,1,<1y
+C100946,Slough,<£15k,Standard,0,0,0,3-5y
+C100947,Swindon,£15k-£30k,Standard,1,0,1,1-3y
+C100948,Oxford,£15k-£30k,Low Income Social Tariff,1,0,0,3-5y
+C100949,London - South,£15k-£30k,Standard,1,0,1,1-3y
+C100950,Thames Valley,£30k-£50k,Metered,1,0,1,5+y
+C100951,London - South,£30k-£50k,Unmetered,0,0,0,5+y
+C100952,London - South,£30k-£50k,Unmetered,0,0,0,1-3y
+C100953,London - North,£30k-£50k,Metered,1,0,1,<1y
+C100954,Guildford,£30k-£50k,Standard,0,0,1,3-5y
+C100955,Oxford,£15k-£30k,Metered,1,0,1,<1y
+C100956,Slough,£30k-£50k,Unmetered,1,0,1,1-3y
+C100957,Thames Valley,<£15k,Unmetered,0,0,1,<1y
+C100958,Thames Valley,£15k-£30k,Standard,1,0,1,5+y
+C100959,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C100960,Thames Valley,£30k-£50k,Standard,0,0,1,1-3y
+C100961,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C100962,London - North,<£15k,Metered,1,0,1,3-5y
+C100963,London - North,£15k-£30k,Standard,0,0,0,1-3y
+C100964,Guildford,£15k-£30k,Standard,1,0,1,5+y
+C100965,Thames Valley,£30k-£50k,Standard,0,0,1,3-5y
+C100966,Guildford,£30k-£50k,Metered,1,0,1,1-3y
+C100967,London - North,£15k-£30k,Standard,1,0,0,1-3y
+C100968,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C100969,London - North,£15k-£30k,Standard,1,0,1,3-5y
+C100970,London - South,£15k-£30k,Unmetered,0,0,0,1-3y
+C100971,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C100972,London - North,£30k-£50k,Metered,1,0,0,<1y
+C100973,Oxford,£15k-£30k,Standard,1,1,1,<1y
+C100974,London - South,£15k-£30k,Standard,0,0,0,<1y
+C100975,Reading,<£15k,Standard,1,1,1,<1y
+C100976,Thames Valley,<£15k,Standard,1,0,0,<1y
+C100977,London - South,<£15k,Standard,1,1,0,5+y
+C100978,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C100979,London - North,£50k+,Metered,1,0,1,5+y
+C100980,Guildford,£15k-£30k,Standard,1,1,1,3-5y
+C100981,Swindon,£15k-£30k,Metered,1,0,1,3-5y
+C100982,Slough,<£15k,Metered,1,0,0,<1y
+C100983,Thames Valley,£15k-£30k,Standard,1,0,0,3-5y
+C100984,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C100985,Oxford,£15k-£30k,Standard,0,0,0,1-3y
+C100986,London - South,£30k-£50k,Standard,0,0,0,5+y
+C100987,London - North,£30k-£50k,Metered,1,0,0,5+y
+C100988,London - South,<£15k,Unmetered,1,1,1,1-3y
+C100989,Swindon,£30k-£50k,Unmetered,0,0,1,3-5y
+C100990,Reading,£50k+,Unmetered,1,0,1,<1y
+C100991,Slough,£15k-£30k,Metered,1,0,1,<1y
+C100992,Swindon,<£15k,Standard,1,0,1,<1y
+C100993,London - North,£50k+,Standard,1,0,1,<1y
+C100994,Oxford,£50k+,Standard,0,0,1,3-5y
+C100995,London - South,£15k-£30k,Standard,1,0,1,1-3y
+C100996,Reading,£15k-£30k,Standard,0,0,1,<1y
+C100997,London - North,<£15k,Metered,1,0,1,5+y
+C100998,Guildford,£30k-£50k,Standard,1,0,1,1-3y
+C100999,London - South,£15k-£30k,Standard,1,1,1,1-3y
+C101000,London - North,<£15k,Metered,1,1,0,1-3y
+C101001,Thames Valley,£30k-£50k,Standard,1,0,1,1-3y
+C101002,London - North,£50k+,Low Income Social Tariff,1,0,1,1-3y
+C101003,London - North,£30k-£50k,Standard,0,0,1,3-5y
+C101004,Reading,£15k-£30k,Metered,1,0,1,5+y
+C101005,London - South,<£15k,Standard,1,0,1,1-3y
+C101006,Oxford,£50k+,Metered,1,0,1,1-3y
+C101007,London - South,£50k+,Standard,1,0,0,<1y
+C101008,Slough,£15k-£30k,Standard,0,0,1,5+y
+C101009,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101010,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C101011,Thames Valley,£15k-£30k,Standard,1,0,1,5+y
+C101012,Thames Valley,<£15k,Low Income Social Tariff,1,1,1,3-5y
+C101013,Guildford,<£15k,Standard,1,0,1,<1y
+C101014,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C101015,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101016,Reading,<£15k,Standard,1,0,0,5+y
+C101017,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C101018,London - North,£15k-£30k,Standard,1,0,1,1-3y
+C101019,Thames Valley,<£15k,Metered,1,0,0,1-3y
+C101020,Oxford,<£15k,Standard,1,0,1,1-3y
+C101021,Slough,£15k-£30k,Standard,1,0,1,<1y
+C101022,Guildford,£15k-£30k,Standard,1,0,1,5+y
+C101023,Thames Valley,£30k-£50k,Low Income Social Tariff,0,0,0,<1y
+C101024,Reading,£50k+,Metered,1,0,1,5+y
+C101025,London - South,<£15k,Unmetered,0,0,1,3-5y
+C101026,Guildford,£50k+,Metered,1,0,0,<1y
+C101027,London - South,£50k+,Metered,1,0,1,3-5y
+C101028,Slough,£30k-£50k,Metered,1,0,0,3-5y
+C101029,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,3-5y
+C101030,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101031,Slough,£30k-£50k,Standard,0,1,0,<1y
+C101032,Thames Valley,£30k-£50k,Metered,1,0,1,<1y
+C101033,Oxford,<£15k,Metered,1,1,1,3-5y
+C101034,London - South,£50k+,Standard,0,0,0,<1y
+C101035,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C101036,London - South,£30k-£50k,Standard,1,0,0,1-3y
+C101037,London - South,£15k-£30k,Low Income Social Tariff,0,0,0,<1y
+C101038,Thames Valley,<£15k,Standard,1,0,1,3-5y
+C101039,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C101040,London - North,£15k-£30k,Metered,1,0,1,5+y
+C101041,Reading,£15k-£30k,Metered,1,1,1,<1y
+C101042,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C101043,Reading,£15k-£30k,Low Income Social Tariff,0,0,0,5+y
+C101044,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C101045,London - South,£15k-£30k,Standard,1,0,1,3-5y
+C101046,London - North,£50k+,Standard,0,0,1,3-5y
+C101047,Slough,<£15k,Standard,0,0,1,1-3y
+C101048,Oxford,£15k-£30k,Standard,0,0,0,1-3y
+C101049,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C101050,Reading,£15k-£30k,Unmetered,1,0,1,<1y
+C101051,London - North,£15k-£30k,Metered,1,0,1,5+y
+C101052,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C101053,London - North,£50k+,Metered,1,0,1,<1y
+C101054,London - South,£15k-£30k,Low Income Social Tariff,0,0,0,3-5y
+C101055,Reading,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C101056,Oxford,<£15k,Standard,1,0,1,<1y
+C101057,London - North,£15k-£30k,Unmetered,1,0,1,5+y
+C101058,Thames Valley,£15k-£30k,Standard,0,0,0,3-5y
+C101059,Slough,<£15k,Metered,1,0,0,3-5y
+C101060,Guildford,£30k-£50k,Unmetered,0,0,0,5+y
+C101061,Reading,£30k-£50k,Metered,1,0,1,1-3y
+C101062,London - South,£30k-£50k,Standard,1,0,0,1-3y
+C101063,Reading,£15k-£30k,Metered,1,0,1,<1y
+C101064,London - South,£30k-£50k,Standard,0,0,1,<1y
+C101065,Guildford,£15k-£30k,Metered,1,0,0,1-3y
+C101066,London - South,<£15k,Standard,0,0,1,1-3y
+C101067,Reading,<£15k,Metered,1,0,0,3-5y
+C101068,London - North,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C101069,London - South,£50k+,Standard,0,0,1,3-5y
+C101070,Oxford,<£15k,Standard,1,0,1,5+y
+C101071,Reading,£15k-£30k,Metered,1,0,0,5+y
+C101072,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101073,Guildford,£30k-£50k,Standard,0,0,0,5+y
+C101074,Swindon,£15k-£30k,Standard,1,0,1,3-5y
+C101075,London - South,£30k-£50k,Metered,1,0,1,<1y
+C101076,Thames Valley,£30k-£50k,Metered,1,1,1,1-3y
+C101077,Thames Valley,£30k-£50k,Metered,1,0,1,<1y
+C101078,Reading,<£15k,Standard,0,1,0,3-5y
+C101079,London - South,£50k+,Metered,1,0,1,1-3y
+C101080,London - South,<£15k,Standard,0,0,1,1-3y
+C101081,Oxford,£30k-£50k,Standard,1,0,1,3-5y
+C101082,Oxford,<£15k,Metered,1,0,1,1-3y
+C101083,Swindon,<£15k,Standard,0,1,0,1-3y
+C101084,Guildford,<£15k,Metered,1,0,0,5+y
+C101085,Slough,£15k-£30k,Low Income Social Tariff,0,0,0,5+y
+C101086,Slough,£15k-£30k,Metered,1,0,0,3-5y
+C101087,Slough,<£15k,Metered,1,0,0,<1y
+C101088,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C101089,Thames Valley,£15k-£30k,Standard,0,0,1,<1y
+C101090,London - South,£30k-£50k,Standard,1,0,1,1-3y
+C101091,Reading,£50k+,Metered,1,1,1,1-3y
+C101092,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,5+y
+C101093,London - South,<£15k,Standard,1,0,0,3-5y
+C101094,Thames Valley,£15k-£30k,Standard,0,0,0,1-3y
+C101095,London - South,£50k+,Standard,0,0,1,1-3y
+C101096,London - North,<£15k,Metered,1,0,1,1-3y
+C101097,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C101098,Oxford,£50k+,Metered,1,0,1,3-5y
+C101099,London - North,£50k+,Low Income Social Tariff,1,0,1,<1y
+C101100,London - North,£15k-£30k,Standard,1,0,0,5+y
+C101101,London - South,£30k-£50k,Metered,1,0,0,<1y
+C101102,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C101103,Swindon,£30k-£50k,Standard,0,0,0,5+y
+C101104,London - North,<£15k,Low Income Social Tariff,1,0,0,<1y
+C101105,Slough,<£15k,Standard,0,1,1,<1y
+C101106,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C101107,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C101108,Guildford,£30k-£50k,Low Income Social Tariff,1,0,0,<1y
+C101109,London - North,£15k-£30k,Metered,1,0,1,<1y
+C101110,London - North,£50k+,Standard,1,0,1,<1y
+C101111,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C101112,Reading,£15k-£30k,Metered,1,0,1,1-3y
+C101113,Guildford,£30k-£50k,Metered,1,0,0,3-5y
+C101114,Guildford,£15k-£30k,Metered,1,0,1,5+y
+C101115,London - North,£15k-£30k,Standard,1,0,1,<1y
+C101116,London - North,<£15k,Metered,1,0,0,1-3y
+C101117,Swindon,£30k-£50k,Low Income Social Tariff,0,0,1,<1y
+C101118,London - South,£30k-£50k,Standard,0,0,1,1-3y
+C101119,Oxford,£50k+,Metered,1,0,1,1-3y
+C101120,Reading,£30k-£50k,Unmetered,1,0,1,3-5y
+C101121,London - North,£50k+,Metered,1,0,1,1-3y
+C101122,Swindon,£15k-£30k,Low Income Social Tariff,0,0,1,1-3y
+C101123,London - North,£50k+,Standard,0,0,1,3-5y
+C101124,London - South,£15k-£30k,Unmetered,1,0,1,5+y
+C101125,Thames Valley,£15k-£30k,Standard,0,1,1,1-3y
+C101126,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101127,Reading,£15k-£30k,Metered,1,0,0,5+y
+C101128,Reading,£15k-£30k,Metered,1,0,1,1-3y
+C101129,Guildford,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C101130,Guildford,<£15k,Metered,1,0,0,3-5y
+C101131,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C101132,London - North,£50k+,Metered,1,1,1,1-3y
+C101133,Slough,£30k-£50k,Metered,1,0,0,<1y
+C101134,Guildford,£15k-£30k,Metered,1,0,0,1-3y
+C101135,London - South,£15k-£30k,Standard,0,0,1,1-3y
+C101136,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C101137,London - South,<£15k,Low Income Social Tariff,0,0,0,3-5y
+C101138,London - North,£30k-£50k,Metered,1,0,1,5+y
+C101139,Reading,<£15k,Metered,1,1,1,5+y
+C101140,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C101141,Swindon,£30k-£50k,Metered,1,0,0,<1y
+C101142,Swindon,£15k-£30k,Standard,0,0,1,1-3y
+C101143,Swindon,£30k-£50k,Standard,1,0,1,3-5y
+C101144,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C101145,London - South,£50k+,Standard,1,0,0,<1y
+C101146,Slough,£30k-£50k,Standard,0,0,1,3-5y
+C101147,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C101148,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101149,Oxford,£30k-£50k,Metered,1,0,1,5+y
+C101150,London - North,£50k+,Standard,0,0,1,1-3y
+C101151,Oxford,£15k-£30k,Metered,1,0,0,1-3y
+C101152,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101153,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101154,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101155,London - North,£50k+,Standard,1,0,1,3-5y
+C101156,London - North,£15k-£30k,Low Income Social Tariff,0,0,1,1-3y
+C101157,London - North,£15k-£30k,Standard,0,0,0,3-5y
+C101158,London - South,<£15k,Metered,1,1,1,<1y
+C101159,Slough,£15k-£30k,Standard,0,0,0,5+y
+C101160,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C101161,Reading,£15k-£30k,Standard,1,0,0,1-3y
+C101162,Swindon,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C101163,London - North,£15k-£30k,Standard,1,0,1,1-3y
+C101164,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C101165,Oxford,£30k-£50k,Standard,0,0,0,3-5y
+C101166,Swindon,£50k+,Standard,1,0,0,3-5y
+C101167,Thames Valley,<£15k,Metered,1,1,0,5+y
+C101168,Swindon,£15k-£30k,Metered,1,0,0,1-3y
+C101169,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C101170,London - South,£30k-£50k,Unmetered,0,0,1,1-3y
+C101171,Slough,£15k-£30k,Metered,1,0,1,3-5y
+C101172,London - South,£15k-£30k,Unmetered,1,0,0,1-3y
+C101173,Slough,£15k-£30k,Standard,1,0,1,3-5y
+C101174,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101175,Slough,£15k-£30k,Metered,1,0,0,<1y
+C101176,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C101177,London - South,£30k-£50k,Unmetered,0,0,1,5+y
+C101178,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101179,London - North,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C101180,Slough,£30k-£50k,Metered,1,0,0,1-3y
+C101181,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C101182,London - North,<£15k,Metered,1,0,1,5+y
+C101183,London - North,£15k-£30k,Metered,1,0,1,5+y
+C101184,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C101185,Swindon,£30k-£50k,Metered,1,0,1,5+y
+C101186,London - South,£15k-£30k,Standard,1,0,0,<1y
+C101187,Guildford,£30k-£50k,Standard,1,0,1,1-3y
+C101188,London - North,£15k-£30k,Standard,0,1,1,3-5y
+C101189,Reading,£15k-£30k,Metered,1,0,1,3-5y
+C101190,Thames Valley,£50k+,Standard,1,0,0,<1y
+C101191,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C101192,Oxford,£30k-£50k,Metered,1,1,1,<1y
+C101193,Guildford,£50k+,Low Income Social Tariff,0,1,1,1-3y
+C101194,Oxford,£30k-£50k,Standard,0,0,1,1-3y
+C101195,London - North,<£15k,Metered,1,0,0,5+y
+C101196,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C101197,Reading,<£15k,Low Income Social Tariff,0,0,0,1-3y
+C101198,London - South,£15k-£30k,Standard,0,0,0,3-5y
+C101199,Slough,£30k-£50k,Standard,1,0,0,3-5y
+C101200,Thames Valley,£30k-£50k,Standard,0,0,1,1-3y
+C101201,Thames Valley,£15k-£30k,Metered,1,0,0,3-5y
+C101202,Swindon,£15k-£30k,Standard,1,0,1,<1y
+C101203,Slough,£30k-£50k,Metered,1,0,1,1-3y
+C101204,London - North,£30k-£50k,Metered,1,0,1,<1y
+C101205,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C101206,Reading,£50k+,Standard,0,0,1,1-3y
+C101207,Thames Valley,£15k-£30k,Standard,0,1,1,<1y
+C101208,London - South,<£15k,Metered,1,1,1,1-3y
+C101209,London - South,£30k-£50k,Standard,0,0,1,3-5y
+C101210,Slough,£50k+,Metered,1,0,1,3-5y
+C101211,Swindon,£15k-£30k,Standard,0,0,1,<1y
+C101212,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101213,London - South,<£15k,Standard,0,0,0,1-3y
+C101214,London - South,£30k-£50k,Metered,1,1,1,5+y
+C101215,Thames Valley,£15k-£30k,Standard,1,1,0,5+y
+C101216,London - South,£15k-£30k,Metered,1,0,0,1-3y
+C101217,Thames Valley,£50k+,Standard,0,0,1,3-5y
+C101218,Reading,<£15k,Unmetered,1,0,1,1-3y
+C101219,London - North,£15k-£30k,Metered,1,1,0,5+y
+C101220,London - North,£15k-£30k,Standard,0,0,0,<1y
+C101221,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C101222,Oxford,£15k-£30k,Standard,1,0,0,3-5y
+C101223,Reading,£15k-£30k,Standard,0,0,0,1-3y
+C101224,London - North,<£15k,Standard,0,0,0,<1y
+C101225,Oxford,£30k-£50k,Low Income Social Tariff,0,0,1,<1y
+C101226,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101227,Thames Valley,<£15k,Standard,1,0,1,3-5y
+C101228,Guildford,£15k-£30k,Metered,1,0,1,3-5y
+C101229,London - North,£50k+,Standard,1,0,1,<1y
+C101230,London - North,<£15k,Unmetered,1,0,1,5+y
+C101231,Thames Valley,£15k-£30k,Standard,0,0,0,1-3y
+C101232,London - North,£15k-£30k,Metered,1,0,1,5+y
+C101233,Reading,£15k-£30k,Metered,1,0,1,<1y
+C101234,London - North,£15k-£30k,Standard,1,0,0,5+y
+C101235,London - North,£15k-£30k,Standard,0,0,1,5+y
+C101236,London - North,<£15k,Standard,0,0,0,5+y
+C101237,London - South,£15k-£30k,Low Income Social Tariff,0,0,1,3-5y
+C101238,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101239,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C101240,Oxford,<£15k,Metered,1,1,1,1-3y
+C101241,London - South,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C101242,London - South,<£15k,Metered,1,0,1,5+y
+C101243,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101244,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C101245,London - South,£30k-£50k,Standard,1,0,0,5+y
+C101246,Reading,<£15k,Low Income Social Tariff,1,0,1,1-3y
+C101247,London - North,<£15k,Standard,0,1,1,<1y
+C101248,Oxford,£15k-£30k,Standard,0,0,1,1-3y
+C101249,Oxford,<£15k,Metered,1,0,0,3-5y
+C101250,London - North,£15k-£30k,Standard,1,0,0,5+y
+C101251,London - North,£30k-£50k,Standard,1,0,0,<1y
+C101252,London - North,£30k-£50k,Standard,0,0,0,3-5y
+C101253,Reading,<£15k,Metered,1,0,1,1-3y
+C101254,London - North,£50k+,Low Income Social Tariff,1,0,1,3-5y
+C101255,Swindon,£30k-£50k,Standard,0,0,1,3-5y
+C101256,Slough,£30k-£50k,Standard,1,0,0,5+y
+C101257,Swindon,£30k-£50k,Metered,1,0,1,1-3y
+C101258,Thames Valley,£30k-£50k,Unmetered,1,0,1,1-3y
+C101259,Guildford,£15k-£30k,Standard,1,0,0,3-5y
+C101260,London - North,£30k-£50k,Unmetered,1,0,0,1-3y
+C101261,London - South,£50k+,Low Income Social Tariff,0,0,0,1-3y
+C101262,London - South,<£15k,Standard,0,0,1,<1y
+C101263,Guildford,£15k-£30k,Metered,1,0,1,<1y
+C101264,Thames Valley,<£15k,Metered,1,0,1,5+y
+C101265,Swindon,£50k+,Metered,1,0,1,<1y
+C101266,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C101267,Guildford,£30k-£50k,Metered,1,0,1,3-5y
+C101268,Thames Valley,£30k-£50k,Metered,1,0,0,<1y
+C101269,Thames Valley,£50k+,Metered,1,0,1,1-3y
+C101270,Guildford,<£15k,Unmetered,0,0,0,1-3y
+C101271,London - South,£30k-£50k,Metered,1,0,0,1-3y
+C101272,London - South,£50k+,Metered,1,0,1,1-3y
+C101273,Thames Valley,<£15k,Low Income Social Tariff,1,0,1,3-5y
+C101274,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C101275,London - South,£15k-£30k,Standard,1,0,1,<1y
+C101276,London - North,£30k-£50k,Metered,1,0,1,<1y
+C101277,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C101278,Oxford,£15k-£30k,Standard,0,0,1,1-3y
+C101279,Thames Valley,<£15k,Metered,1,0,0,5+y
+C101280,London - South,<£15k,Standard,0,0,0,<1y
+C101281,London - South,<£15k,Standard,0,1,0,1-3y
+C101282,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C101283,Reading,£15k-£30k,Standard,0,0,0,3-5y
+C101284,Oxford,<£15k,Low Income Social Tariff,1,0,1,3-5y
+C101285,Guildford,£30k-£50k,Standard,0,0,1,<1y
+C101286,London - South,£30k-£50k,Low Income Social Tariff,0,0,0,3-5y
+C101287,London - South,£15k-£30k,Standard,0,0,0,1-3y
+C101288,Thames Valley,£50k+,Unmetered,0,0,1,3-5y
+C101289,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101290,Thames Valley,£30k-£50k,Standard,0,0,1,3-5y
+C101291,Reading,<£15k,Standard,0,0,0,3-5y
+C101292,Thames Valley,£30k-£50k,Standard,1,0,0,3-5y
+C101293,London - South,£50k+,Metered,1,0,1,<1y
+C101294,London - South,£30k-£50k,Metered,1,0,1,3-5y
+C101295,London - South,£15k-£30k,Metered,1,0,0,3-5y
+C101296,London - North,£30k-£50k,Metered,1,0,1,1-3y
+C101297,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C101298,Slough,£30k-£50k,Metered,1,0,1,<1y
+C101299,London - South,£30k-£50k,Metered,1,0,0,1-3y
+C101300,London - North,£50k+,Metered,1,0,1,3-5y
+C101301,Thames Valley,£15k-£30k,Metered,1,0,0,1-3y
+C101302,Slough,<£15k,Unmetered,0,0,0,3-5y
+C101303,London - South,£15k-£30k,Standard,0,0,1,3-5y
+C101304,Swindon,<£15k,Standard,1,0,0,3-5y
+C101305,Oxford,£15k-£30k,Standard,0,0,0,3-5y
+C101306,Thames Valley,£15k-£30k,Metered,1,1,1,3-5y
+C101307,Reading,£30k-£50k,Standard,0,0,1,1-3y
+C101308,London - North,<£15k,Low Income Social Tariff,1,1,0,<1y
+C101309,Guildford,<£15k,Metered,1,0,1,5+y
+C101310,London - South,<£15k,Metered,1,0,1,5+y
+C101311,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C101312,Thames Valley,£30k-£50k,Standard,0,0,1,5+y
+C101313,London - North,<£15k,Metered,1,0,0,5+y
+C101314,London - North,<£15k,Standard,1,0,0,1-3y
+C101315,Reading,£15k-£30k,Metered,1,0,0,3-5y
+C101316,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C101317,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C101318,Slough,£15k-£30k,Low Income Social Tariff,1,0,0,<1y
+C101319,Swindon,£50k+,Standard,1,0,1,1-3y
+C101320,Thames Valley,£15k-£30k,Low Income Social Tariff,0,0,0,3-5y
+C101321,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101322,London - North,<£15k,Metered,1,0,1,3-5y
+C101323,Swindon,£50k+,Standard,1,0,1,3-5y
+C101324,London - South,£50k+,Standard,1,0,1,3-5y
+C101325,Oxford,£30k-£50k,Metered,1,0,1,1-3y
+C101326,London - South,£15k-£30k,Standard,0,0,1,1-3y
+C101327,Thames Valley,<£15k,Metered,1,0,1,<1y
+C101328,London - South,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C101329,London - North,£30k-£50k,Low Income Social Tariff,0,0,0,<1y
+C101330,Slough,£15k-£30k,Standard,0,0,1,<1y
+C101331,Thames Valley,£15k-£30k,Low Income Social Tariff,1,0,0,<1y
+C101332,Thames Valley,£15k-£30k,Standard,1,0,0,3-5y
+C101333,Guildford,£30k-£50k,Metered,1,0,1,1-3y
+C101334,Guildford,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C101335,Swindon,£30k-£50k,Standard,1,0,0,5+y
+C101336,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C101337,Thames Valley,£15k-£30k,Standard,1,0,0,5+y
+C101338,Oxford,£15k-£30k,Metered,1,0,1,3-5y
+C101339,London - South,<£15k,Metered,1,0,0,<1y
+C101340,London - North,£30k-£50k,Standard,1,0,0,5+y
+C101341,Swindon,£15k-£30k,Standard,1,0,0,5+y
+C101342,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C101343,Thames Valley,£15k-£30k,Standard,0,0,0,1-3y
+C101344,Guildford,<£15k,Metered,1,0,1,1-3y
+C101345,Reading,£15k-£30k,Unmetered,0,0,0,1-3y
+C101346,London - South,£15k-£30k,Metered,1,0,1,3-5y
+C101347,London - South,<£15k,Low Income Social Tariff,1,0,0,1-3y
+C101348,London - South,£30k-£50k,Metered,1,0,1,<1y
+C101349,London - North,£15k-£30k,Low Income Social Tariff,0,0,0,<1y
+C101350,Swindon,£15k-£30k,Standard,0,0,1,<1y
+C101351,Swindon,£15k-£30k,Standard,0,0,1,1-3y
+C101352,London - South,£30k-£50k,Metered,1,0,1,1-3y
+C101353,London - South,£15k-£30k,Standard,1,0,0,5+y
+C101354,Oxford,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C101355,London - North,£50k+,Metered,1,0,1,1-3y
+C101356,Thames Valley,£30k-£50k,Unmetered,0,0,1,1-3y
+C101357,Thames Valley,£15k-£30k,Standard,1,0,0,1-3y
+C101358,Reading,£30k-£50k,Metered,1,0,1,3-5y
+C101359,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C101360,Reading,£15k-£30k,Standard,0,0,0,5+y
+C101361,London - South,£15k-£30k,Metered,1,0,1,5+y
+C101362,Reading,£15k-£30k,Metered,1,0,1,5+y
+C101363,London - North,<£15k,Unmetered,0,0,0,3-5y
+C101364,Thames Valley,£15k-£30k,Metered,1,0,1,1-3y
+C101365,Thames Valley,<£15k,Standard,1,1,1,1-3y
+C101366,London - North,£15k-£30k,Metered,1,0,0,1-3y
+C101367,London - North,£15k-£30k,Metered,1,0,1,3-5y
+C101368,London - North,£50k+,Standard,1,0,1,<1y
+C101369,London - South,<£15k,Metered,1,0,0,<1y
+C101370,London - North,£30k-£50k,Standard,0,0,1,<1y
+C101371,Guildford,£15k-£30k,Standard,1,0,1,3-5y
+C101372,London - South,<£15k,Metered,1,1,1,3-5y
+C101373,Swindon,£15k-£30k,Standard,1,0,1,<1y
+C101374,Guildford,<£15k,Metered,1,1,0,1-3y
+C101375,London - North,<£15k,Standard,1,1,0,1-3y
+C101376,Reading,£15k-£30k,Metered,1,0,0,3-5y
+C101377,Oxford,£15k-£30k,Standard,1,0,1,<1y
+C101378,Reading,£15k-£30k,Low Income Social Tariff,0,0,1,<1y
+C101379,London - South,<£15k,Standard,1,0,1,3-5y
+C101380,London - South,<£15k,Metered,1,0,0,3-5y
+C101381,London - North,<£15k,Standard,1,0,0,5+y
+C101382,Thames Valley,£15k-£30k,Standard,0,0,1,3-5y
+C101383,Guildford,£15k-£30k,Metered,1,1,0,5+y
+C101384,Guildford,£15k-£30k,Low Income Social Tariff,1,0,0,1-3y
+C101385,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,1-3y
+C101386,Slough,<£15k,Standard,1,1,0,5+y
+C101387,London - South,£50k+,Standard,1,0,1,<1y
+C101388,Oxford,<£15k,Metered,1,1,1,3-5y
+C101389,London - North,<£15k,Metered,1,1,1,<1y
+C101390,Guildford,<£15k,Standard,0,0,0,1-3y
+C101391,Swindon,£50k+,Metered,1,0,0,<1y
+C101392,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C101393,London - North,£30k-£50k,Metered,1,0,1,3-5y
+C101394,Swindon,£50k+,Standard,1,0,1,<1y
+C101395,London - North,<£15k,Metered,1,0,1,<1y
+C101396,Thames Valley,£50k+,Standard,1,0,1,1-3y
+C101397,Oxford,<£15k,Metered,1,0,1,1-3y
+C101398,Thames Valley,£30k-£50k,Standard,1,0,0,1-3y
+C101399,London - South,£15k-£30k,Metered,1,0,0,5+y
+C101400,Thames Valley,£15k-£30k,Metered,1,0,0,<1y
+C101401,London - North,£50k+,Metered,1,0,1,1-3y
+C101402,Guildford,<£15k,Standard,1,0,1,1-3y
+C101403,London - South,£50k+,Standard,0,0,1,1-3y
+C101404,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C101405,London - South,£30k-£50k,Metered,1,0,1,3-5y
+C101406,Guildford,£50k+,Low Income Social Tariff,0,0,0,3-5y
+C101407,London - North,<£15k,Standard,0,0,0,3-5y
+C101408,Oxford,£50k+,Low Income Social Tariff,1,0,1,1-3y
+C101409,Slough,£15k-£30k,Standard,1,0,1,3-5y
+C101410,Swindon,£30k-£50k,Standard,0,0,1,5+y
+C101411,Guildford,<£15k,Standard,1,0,1,5+y
+C101412,Swindon,£15k-£30k,Metered,1,0,1,5+y
+C101413,Guildford,£30k-£50k,Standard,1,0,1,1-3y
+C101414,London - North,£15k-£30k,Standard,1,0,1,5+y
+C101415,Swindon,<£15k,Metered,1,0,0,3-5y
+C101416,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C101417,Thames Valley,£30k-£50k,Standard,0,0,1,3-5y
+C101418,Oxford,<£15k,Standard,0,0,1,5+y
+C101419,Guildford,£30k-£50k,Metered,1,0,1,1-3y
+C101420,Slough,£50k+,Standard,1,0,1,3-5y
+C101421,Thames Valley,<£15k,Standard,1,1,1,3-5y
+C101422,Thames Valley,<£15k,Metered,1,1,1,3-5y
+C101423,London - South,£30k-£50k,Standard,1,0,1,3-5y
+C101424,London - South,<£15k,Metered,1,0,0,<1y
+C101425,London - South,£15k-£30k,Standard,1,0,1,1-3y
+C101426,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C101427,London - North,£15k-£30k,Standard,0,0,0,3-5y
+C101428,Slough,£15k-£30k,Standard,0,0,1,3-5y
+C101429,Thames Valley,£30k-£50k,Standard,1,0,1,5+y
+C101430,Guildford,£15k-£30k,Standard,0,0,1,3-5y
+C101431,Reading,<£15k,Low Income Social Tariff,1,0,0,3-5y
+C101432,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,<1y
+C101433,London - North,£50k+,Standard,1,0,1,3-5y
+C101434,London - North,£30k-£50k,Metered,1,0,1,5+y
+C101435,Guildford,£15k-£30k,Metered,1,0,0,3-5y
+C101436,London - North,£15k-£30k,Low Income Social Tariff,1,0,1,5+y
+C101437,Thames Valley,<£15k,Standard,1,1,0,5+y
+C101438,Guildford,£15k-£30k,Standard,0,0,0,1-3y
+C101439,Guildford,<£15k,Standard,0,0,1,3-5y
+C101440,London - South,£50k+,Standard,0,0,1,1-3y
+C101441,London - North,£15k-£30k,Standard,0,0,1,1-3y
+C101442,London - North,£30k-£50k,Low Income Social Tariff,1,0,0,1-3y
+C101443,London - North,<£15k,Low Income Social Tariff,0,1,0,1-3y
+C101444,London - North,£15k-£30k,Standard,1,0,1,<1y
+C101445,Thames Valley,£15k-£30k,Metered,1,0,1,3-5y
+C101446,Oxford,£15k-£30k,Standard,1,0,0,<1y
+C101447,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101448,Reading,£50k+,Metered,1,0,1,1-3y
+C101449,London - North,£30k-£50k,Standard,0,0,1,1-3y
+C101450,Swindon,<£15k,Low Income Social Tariff,1,0,1,5+y
+C101451,Reading,£30k-£50k,Unmetered,1,0,0,1-3y
+C101452,Oxford,<£15k,Metered,1,0,0,<1y
+C101453,Guildford,£50k+,Metered,1,0,1,5+y
+C101454,London - South,£15k-£30k,Metered,1,0,1,5+y
+C101455,London - North,£15k-£30k,Standard,0,0,0,3-5y
+C101456,London - South,<£15k,Standard,1,0,1,3-5y
+C101457,London - South,<£15k,Metered,1,0,1,<1y
+C101458,Guildford,£15k-£30k,Standard,0,1,1,3-5y
+C101459,London - South,£50k+,Low Income Social Tariff,1,0,1,<1y
+C101460,Slough,£30k-£50k,Metered,1,0,0,1-3y
+C101461,Thames Valley,£50k+,Metered,1,0,1,<1y
+C101462,London - North,<£15k,Standard,1,1,1,3-5y
+C101463,London - South,£15k-£30k,Unmetered,1,0,0,1-3y
+C101464,Reading,£15k-£30k,Standard,0,0,1,1-3y
+C101465,Reading,£15k-£30k,Standard,1,0,0,<1y
+C101466,London - South,£15k-£30k,Standard,0,0,1,3-5y
+C101467,London - South,£15k-£30k,Metered,1,0,1,1-3y
+C101468,Slough,£15k-£30k,Unmetered,0,0,1,1-3y
+C101469,London - North,<£15k,Standard,0,0,1,1-3y
+C101470,Guildford,£15k-£30k,Low Income Social Tariff,1,0,1,3-5y
+C101471,London - North,£30k-£50k,Standard,1,0,1,1-3y
+C101472,London - North,<£15k,Metered,1,0,0,5+y
+C101473,Thames Valley,£50k+,Standard,0,0,0,1-3y
+C101474,Thames Valley,£15k-£30k,Metered,1,0,1,<1y
+C101475,Thames Valley,£30k-£50k,Metered,1,0,1,1-3y
+C101476,London - South,£30k-£50k,Metered,1,1,1,<1y
+C101477,Guildford,£30k-£50k,Standard,1,0,1,1-3y
+C101478,Thames Valley,£30k-£50k,Low Income Social Tariff,1,0,1,1-3y
+C101479,Thames Valley,£30k-£50k,Unmetered,0,0,0,5+y
+C101480,London - South,£30k-£50k,Metered,1,0,0,1-3y
+C101481,London - North,£15k-£30k,Metered,1,0,1,1-3y
+C101482,Thames Valley,<£15k,Metered,1,0,0,1-3y
+C101483,London - South,£30k-£50k,Standard,1,0,1,<1y
+C101484,Reading,<£15k,Low Income Social Tariff,0,0,1,<1y
+C101485,London - North,£15k-£30k,Standard,1,0,0,1-3y
+C101486,Guildford,<£15k,Metered,1,0,1,<1y
+C101487,Thames Valley,£15k-£30k,Standard,1,0,1,<1y
+C101488,Oxford,<£15k,Standard,0,1,0,5+y
+C101489,Thames Valley,£30k-£50k,Metered,1,0,1,3-5y
+C101490,London - North,£30k-£50k,Metered,1,0,1,5+y
+C101491,Swindon,£30k-£50k,Low Income Social Tariff,0,0,1,1-3y
+C101492,Reading,£15k-£30k,Unmetered,0,0,0,5+y
+C101493,Swindon,£15k-£30k,Standard,0,0,1,1-3y
+C101494,London - South,£15k-£30k,Standard,0,0,0,<1y
+C101495,Reading,£15k-£30k,Standard,1,0,0,3-5y
+C101496,Swindon,£30k-£50k,Metered,1,0,1,<1y
+C101497,Reading,<£15k,Metered,1,0,0,1-3y
+C101498,London - South,£50k+,Low Income Social Tariff,0,0,1,3-5y
+C101499,Reading,<£15k,Metered,1,1,0,3-5y
